@@ -12,8 +12,10 @@ on a single dataset, with a 1.04× parameter increase over a selected baseline d
 
 # Some Visualization Results
 
-[Multi-dataset prediction:](https://drive.google.com/file/d/1jWcqOVtieyiq3A_M_TfMlWYJIdeTMC3Y/view?usp=share_link)
+[Multi-dataset prediction:](https://arxiv.org/abs/2303.06880)
 
 Here, we show the sequence-level visualization results by our codebase.
 
-<img src="../images/once.gif" width="800px">
+<img src="../images/seq_demo_waymo_bev.gif" width="800px">
+
+<img src="../images/seq_demo_waymo_fp.gif" width="800px">
