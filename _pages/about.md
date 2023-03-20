@@ -16,9 +16,9 @@ Researcher, Shanghai AI Laboratory.
 
 **Academic activities**: Reviewer at CVPR/ECCV/ICCV/ICLR/ACM-MM & T-GRS/T-CSVT/T-MM/T-NLLS
 
-Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University, in 2022. His research is focused on autunomous driving perception model transfer learning, 2D/3D pre-training, 2D/3D few-shot learning, 2D/3D continuous learning. His research outcomes have had major impacts on Industrial applications like airport checkpoint security/recognition and localization of concealed objects. His work has led to many awards, including the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. He is currently a Researcher with Shanghai AI Laboratory. Our team aims to broaden the boundaries of Autonomous Driving (AD) perception model, trying to find unified representations that can be generalized across different AD domains and scenarios.
+Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University, in 2022. His research is focused on autunomous driving perception model transfer learning, 2D/3D pre-training, 2D/3D few-shot learning, 2D/3D continuous learning. His research outcomes have had major impacts on Industrial applications like airport checkpoint security/recognition and localization of concealed objects. His work has led to many awards, including the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. He is currently a Researcher with Shanghai AI Laboratory. 
 
-***We are hiring***: We are searching for highly self-motivated interns. If you are interested in solving the industrial problem in an academic way, do not hesitate to contact me.
+***We are hiring***: Our team aims to broaden the boundaries of Autonomous Driving (AD) perception model, trying to find unified representations that can be generalized across different AD domains and scenarios. We are searching for highly self-motivated interns. If you are interested in solving the industrial problem in an academic way, do not hesitate to contact me.
 
 <br/>
 # News
