@@ -16,5 +16,7 @@ on a single dataset, with a 1.04× parameter increase over a selected baseline d
 
 Here, we show the sequence-level visualization results by our codebase.
 
+![Waymo BEV Visualization](../images/seq_demo_waymo_bev.gif)
+
 <iframe  src="../images/seq_demo_waymo_bev.gif" width="70%">
 <iframe  src="../images/seq_demo_waymo_fp.gif" width="70%">
