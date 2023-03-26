@@ -15,7 +15,7 @@ State-of-the-art 3D semantic segmentation models are trained on off-the-shelf pu
 Here, we give some visualization examples to show how to achieve a unified domain adaptive baseline for 3D semantic segmentation task.
 
 <p align="center">
-    <img src="../images/seq_demo_once.gif" width="70%">
+    <iframe  src="../images/seq_demo_once.gif" width="70%">
 </p>
 
-<img src="../images/seq_demo_nusc.gif" width="70%">
+<iframe src="../images/seq_demo_nusc.gif" width="70%">
