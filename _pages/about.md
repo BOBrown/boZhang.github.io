@@ -14,21 +14,25 @@ Researcher & 3DTrans Team Leader, Shanghai AI Laboratory.
 
 **Email**: zhangbo [at] pjlab.org.cn & bo.zhangzx [at] gmail.com
 
-**Academic activities**: Reviewer at CVPR/ECCV/ICCV/ICLR/ACM-MM & T-GRS/T-CSVT/T-MM/T-NLLS
+**Academic activities**: Reviewer at CVPR/ECCV/ICCV/ICLR/ACM-MM & T-GRS/T-CSVT/T-MM/T-NNLS
 
 Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University, in 2022. His research is focused on autunomous driving perception model transfer learning, 2D/3D pre-training, 2D/3D few-shot learning, 2D/3D continuous learning. His research outcomes have had impacts on Industrial applications like airport checkpoint security/recognition and localization of concealed objects. His work has led to many awards, including the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. He is currently a Researcher with Shanghai AI Laboratory, and working on developing the **open-source codebase of continuous-learning/pre-training-oriented autonomous driving task** ([3DTrans Code Link](https://github.com/PJLab-ADG/3DTrans)).
 
 ***We are hiring***: Our team aims to broaden the boundaries of Autonomous Driving (AD) perception model, trying to find unified representations that can be generalized across different AD domains and scenarios. We are searching for highly self-motivated interns. If you are interested in solving the industrial problem in an academic way, do not hesitate to contact me.
 
+
+
 <br/>
+
 # News
 - Mar 13, 2023, One paper titled "Performance-aware Approximation of Global Channel Pruning for Multitask CNNs" is accepted for publication in **T-PAMI**.
-- Mar 8, 2023, **Three papers** are accepted by CVPR-2023, Uni3D, Bi3D, GDP.
-- Dec 20, 2022, One paper titled "A Closer Look at Few-Shot 3D Point Cloud Classification" is accepted by **IJCV**.
+- Mar 8, 2023, **Three papers** are accepted by CVPR-2023: Uni3D, Bi3D, GDP.
+- Dec 20, 2022, One paper titled "A Closer Look at Few-Shot 3D Point Cloud Classification" is accepted for publication in **IJCV**.
 - Jun 15, 2022, Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University.
 
 
 <br/>
+
 # Selected Publications
 - ^ refers to the corresponding author
 
