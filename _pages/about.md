@@ -35,8 +35,8 @@ Bo Zhang received the Ph.D. degree in electronic engineering from Fudan Universi
 <br/>
 
 # Selected Publications
-- ^ refers to the corresponding author
 ---
+- ^ refers to the corresponding author
 
 Performance-aware Approximation of Global Channel Pruning for Multitask CNNs. Hancheng Ye, **Bo Zhang**, Tao Chen, Jiayuan Fan, and Bin Wang. <u>Published in T-PAMI.</u> ([Code](https://github.com/HankYe/yolov5prune), CCF A)
 
