@@ -22,7 +22,9 @@ This blog will introduce the 3DTrans codebase developed by ADLab Team, which sup
 
 **5) Extensibility for Multiple Models**: `3DTrans` makes the baseline model have the ability of cross-domain/dataset safe transfer and multi-dataset joint training. Without making major changes of the code and 3D model structure, a single-dataset 3D baseline model can be successfully adapted to an unseen domain or dataset by using our `3DTrans`.
 
-![Untitled](../images/3DTrans_1.png)
+<p align="center">
+  <img src="../images/3DTrans_1.png" width="90%">
+</p>
 
 ## **Introduction for Each Module**
 
@@ -49,7 +51,10 @@ This blog will introduce the 3DTrans codebase developed by ADLab Team, which sup
 
 - **UDA@3DTrans, Experimental Results:**
 
-![Untitled](../images/3DTrans_2.png)
+
+<p align="center">
+  <img src="../images/3DTrans_2.png" width="90%">
+</p>
 
 ---
 
@@ -68,7 +73,9 @@ CLUE [3] uses uncertainty weighted clustering to select target data. Following t
 
 - **ADA@3DTrans, Experimental Results:**
 
-![Untitled](../images/3DTrans_3.png)
+<p align="center">
+  <img src="../images/3DTrans_3.png" width="90%">
+</p>
 
 ---
 
@@ -85,7 +92,9 @@ SESS[5] is an algorithm that guides the teacher model and the student model to r
 
 - **SSDA@3DTrans, Experimental Results:**
 
-![Untitled](../images/3DTrans_4.png)
+<p align="center">
+  <img src="../images/3DTrans_4.png" width="90%">
+</p>
 
 ---
 
@@ -100,7 +109,9 @@ SESS[5] is an algorithm that guides the teacher model and the student model to r
 
 - **MDF@3DTrans, Experimental Results:**
 
-![Untitled](../images/3DTrans_5.png)
+<p align="center">
+  <img src="../images/3DTrans_5.png" width="90%">
+</p>
 
 ---
 
