@@ -25,6 +25,7 @@ Bo Zhang received the Ph.D. degree in electronic engineering from Fudan Universi
 <br/>
 
 # News
+---
 - Mar 13, 2023, One paper titled "Performance-aware Approximation of Global Channel Pruning for Multitask CNNs" is accepted for publication in **T-PAMI**.
 - Mar 8, 2023, **Three papers** are accepted by CVPR-2023: Uni3D, Bi3D, GDP.
 - Dec 20, 2022, One paper titled "A Closer Look at Few-Shot 3D Point Cloud Classification" is accepted for publication in **IJCV**.
@@ -35,6 +36,7 @@ Bo Zhang received the Ph.D. degree in electronic engineering from Fudan Universi
 
 # Selected Publications
 - ^ refers to the corresponding author
+---
 
 Performance-aware Approximation of Global Channel Pruning for Multitask CNNs. Hancheng Ye, **Bo Zhang**, Tao Chen, Jiayuan Fan, and Bin Wang. <u>Published in T-PAMI.</u> ([Code](https://github.com/HankYe/yolov5prune), CCF A)
 
@@ -58,6 +60,8 @@ Object-aware long-short-range spatial alignment for few-shot fine-grained image 
 <br/>
 
 # Ph.D Thesis
+---
+
 During the period of pursuing a Ph.D degree, Bo Zhang was focused on studying domain adaptive 2D object detection or semantic segmentation models, and has deep research and practical experience for the model adaptation/transfer task.
 
 [Ph.D Thesis](https://drive.google.com/file/d/1CceNJTwc_QN6B3aE1rIscS65f4dYQdwF/view?usp=share_link)
