@@ -4,9 +4,6 @@ excerpt: "3DTrans: An Open-source Codebase for exploring Continuous-learning/Pre
 collection: portfolio
 ---
 
-<p align="center">
-  <img src="../images/TCSVT_zhangbo_DSEM_poster.png" width="100%">
-</p>
 
 ## Overall
 
