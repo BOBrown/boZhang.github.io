@@ -4,6 +4,10 @@ excerpt: "3DTrans: An Open-source Codebase for exploring Continuous-learning/Pre
 collection: portfolio
 ---
 
+<p align="center">
+  <img src="../images/TCSVT_zhangbo_DSEM_poster.png" width="100%">
+</p>
+
 ## Overall
 
 This blog will introduce the 3DTrans codebase developed by ADLab Team, which supports 3D point cloud transfer learning under autonomous driving for the first time. Besdies, 3DTrans codebase is also the official implementation codebase of Uni3D (accepted by CVPR-2023) and Bi3D (accepted by CVPR-2023).

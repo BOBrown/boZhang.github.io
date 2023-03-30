@@ -18,10 +18,6 @@ Here, we give some visualization examples to show how to achieve a unified domai
     <img  src="../images/seq_demo_once.gif" width="70%">
 </p>
 
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
-
-
-<img src="../images/seq_demo_once.gif" width="40" height="40" />
-
-
+<p align="center">
 <img src="../images/seq_demo_nusc.gif" width="70%">
+</p>
