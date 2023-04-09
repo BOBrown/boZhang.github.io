@@ -1,9 +1,9 @@
 ---
 title: "UniDA3D: Unified Domain Adaptive 3D Semantic Segmentation Pipeline"
 excerpt: "This project aims to tackle several adaptation tasks in 3D segmentation field, by designing a unified source-and-target active sampling strategy to select a maximally-informative subset from both source and target domains for effective model adaptation."
+collection: teaching
+permalink: /teaching/project-2
 date: 2023-01-15
-collection: posts
-permalink: /posts/project-2
 ---
 
 # Introduction

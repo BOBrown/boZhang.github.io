@@ -1,9 +1,9 @@
 ---
 title: "3DTrans Introduction"
 excerpt: "3DTrans: An Open-source Codebase for exploring Continuous-learning/Pre-training-oriented Autonomous Driving Task"
-ate: 2023-03-15
-collection: posts
-permalink: /posts/project-3
+collection: teaching
+permalink: /teaching/project-3
+date: 2023-03-15
 ---
 
 
