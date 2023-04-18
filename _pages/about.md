@@ -45,7 +45,7 @@ Uni3D: A Unified Baseline for Multi-dataset 3D Object Detection. **Bo Zhang**, J
 
 Bi3D: Bi-domain Active Learning for Cross-domain 3D Object Detection. Jiakang Yuan, **Bo Zhang^**, Xiangchao Yan, Tao Chen, Botian Shi, Yikang LI, Yu Qiao. <u>Published in CVPR-2023.</u> ([Code](https://github.com/PJLab-ADG/3DTrans), CCF A)
 
-Generative Diffusion Prior for Unified Image Restoration and Enhancement. Ben Fei, Zhaoyang Lyu, Liang Pan, Junzhe Zhang, Weidong Yang, Tianyue Luo, **Bo Zhang**, Bo Dai. <u>Published in CVPR-2023.</u> ([Code](https://github.com/PJLab-ADG/3DTrans), CCF A)
+Generative Diffusion Prior for Unified Image Restoration and Enhancement. Ben Fei, Zhaoyang Lyu, Liang Pan, Junzhe Zhang, Weidong Yang, Tianyue Luo, **Bo Zhang**, Bo Dai. <u>Published in CVPR-2023.</u> ([Code](https://github.com/Fayeben/GenerativeDiffusionPrior), CCF A)
 
 A Closer Look at Few-Shot 3D Point Cloud Classification. C Ye, H Zhu, **B Zhang**, T Chen. <u>Published in IJCV.</u> (CCF A)
 
