@@ -26,8 +26,8 @@ Bo Zhang received the Ph.D. degree in electronic engineering from Fudan Universi
 
 # News
 ---
-- Jul. 20, 2023, One paper titled "SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification" is accepted by **ACM MM-2023**.
-- May 25, 2023, AD-PT, our research findings on 3D point-cloud pre-training, has been released ([Code](https://github.com/PJLab-ADG/3DTrans), [arXiv paper](https://arxiv.org/abs/2306.00612)).
+- Jul 20, 2023, One paper titled "SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification" is accepted by **ACM MM-2023**.
+- May 25, 2023, AD-PT, our research on **3D point-cloud pre-training**, has been released ([Code](https://github.com/PJLab-ADG/3DTrans), [arXiv paper](https://arxiv.org/abs/2306.00612)).
 - Apr 10, 2023, One paper titled "Performance-aware Approximation of Global Channel Pruning for Multitask CNNs" is accepted for publication in **T-PAMI**.
 - Mar 05, 2023, Bo Zhang started to work on exploring the general perception-reasoning task, by leveraging the off-the-shelf foundation models powered by extracting structured knowledge-rich data.
 - Mar 8, 2023, **Three papers** are accepted by CVPR-2023: Uni3D, Bi3D, GDP.
