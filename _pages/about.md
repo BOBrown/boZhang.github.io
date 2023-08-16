@@ -26,6 +26,7 @@ Bo Zhang received the Ph.D. degree in electronic engineering from Fudan Universi
 
 # News
 ---
+- Aug 16, 2023, One paper about cross-domain background-fouced alignment "Rethinking Cross-Domain Pedestrian Detection: A Background-Focused Distribution Alignment Framework for Instance-Free One-Stage Detectors" is accepted by **TIP**.
 - Jul 20, 2023, One paper titled "SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification" is accepted by **ACM MM-2023**.
 - May 25, 2023, AD-PT, our research on **3D point-cloud pre-training**, has been released ([Code](https://github.com/PJLab-ADG/3DTrans), [arXiv paper](https://arxiv.org/abs/2306.00612)).
 - Apr 10, 2023, One paper titled "Performance-aware Approximation of Global Channel Pruning for Multitask CNNs" is accepted for publication in **T-PAMI**.
@@ -40,6 +41,8 @@ Bo Zhang received the Ph.D. degree in electronic engineering from Fudan Universi
 # Selected Publications
 ---
 - ^ refers to the corresponding author (project leader)
+
+Rethinking Cross-Domain Pedestrian Detection: A Background-Focused Distribution Alignment Framework for Instance-Free One-Stage Detectors. Yancheng Cai, **Bo Zhang**, Baopu Li, Tao Chen, Hongliang Yan, and Jiahao Xu. <u>Published in TIP.</u> (Code will be available, CCF A)
 
 SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification. Siyuan Huang, **Bo Zhang^**, Botian Shi, Peng Gao, Yikang Li, and Hongsheng Li. <u>Published in ACM-MM-2023.</u> ([Code](https://github.com/SiyuanHuang95/SUG), CCF A)
 
