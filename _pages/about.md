@@ -29,7 +29,7 @@ He is currently a Researcher with Shanghai AI Laboratory, working on developing 
 # News
 ---
 - Sep 23, 2023, SPOT, showing a promising and **scalable** 3D pre-training on autonomous driving, has been released (See our paper for more details, [arXiv paper](https://arxiv.org/abs/2306.00612)).
-- Sep 22, 2023, One paper entitled “AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset” is accepted by NeurIPS-2023.
+- Sep 22, 2023, One paper entitled “AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset” is accepted by **NeurIPS-2023**.
 - Aug 16, 2023, One paper about cross-domain background-fouced alignment "Rethinking Cross-Domain Pedestrian Detection: A Background-Focused Distribution Alignment Framework for Instance-Free One-Stage Detectors" is accepted by **TIP**.
 - Jul 20, 2023, One paper entitled "SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification" is accepted by **ACM MM-2023**.
 - May 25, 2023, AD-PT, our research on **3D point-cloud pre-training**, has been released ([Code](https://github.com/PJLab-ADG/3DTrans), [arXiv paper](https://arxiv.org/abs/2306.00612)).
@@ -45,6 +45,7 @@ He is currently a Researcher with Shanghai AI Laboratory, working on developing 
 # Selected Publications
 ---
 - ^ refers to the corresponding author (project lead)
+
 AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset. Jiakang Yuan, **Bo Zhang^**, Xiangchao Yan, Tao Chen, Botian Shi, Yikang LI, Yu Qiao. <u>Published in NeurIPS-2023.</u> ([Code](https://github.com/PJLab-ADG/3DTrans), CCF A)
 
 Rethinking Cross-Domain Pedestrian Detection: A Background-Focused Distribution Alignment Framework for Instance-Free One-Stage Detectors. Yancheng Cai, **Bo Zhang**, Baopu Li, Tao Chen, Hongliang Yan, and Jiahao Xu. <u>Published in TIP.</u> (Code will be available, CCF A)
