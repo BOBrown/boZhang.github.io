@@ -28,7 +28,8 @@ He is currently a Researcher with Shanghai AI Laboratory, working on developing 
 
 # News
 ---
-- Sep 23, 2023, SPOT, showing a promising and **scalable** 3D pre-training on autonomous driving, has been released (See our paper for more details, [arXiv paper](https://arxiv.org/abs/2306.00612)).
+- Sep 24, 2023, StructChart, our research on visual chart, has been released ([arXiv paper](https://arxiv.org/abs/2309.11268)), where we will release the SimChart9K dataset powered by LLM, and observe that StructChart continuously improves the chart perception performance as more simulated charts are used for pre-training.
+- Sep 23, 2023, SPOT, showing a promising and **scalable** 3D pre-training on autonomous driving, has been released (See our paper for more details, [arXiv paper](https://arxiv.org/abs/2309.10527)).
 - Sep 22, 2023, One paper entitled “AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset” is accepted by **NeurIPS-2023**.
 - Aug 16, 2023, One paper about cross-domain background-fouced alignment "Rethinking Cross-Domain Pedestrian Detection: A Background-Focused Distribution Alignment Framework for Instance-Free One-Stage Detectors" is accepted by **TIP**.
 - Jul 20, 2023, One paper entitled "SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification" is accepted by **ACM MM-2023**.
