@@ -14,7 +14,7 @@ Researcher & 3DTrans Team Leader, Shanghai AI Laboratory.
 
 **Email**: zhangbo [at] pjlab.org.cn & bo.zhangzx [at] gmail.com
 
-**Academic activities**: Reviewer at CVPR/ECCV/ICCV/ICLR/ACM-MM & TIP/TGRS/T-CSVT/T-MM/T-NNLS
+**Academic activities**: Reviewer at CVPR/ECCV/ICCV/ACM-MM & TIP/TGRS/T-CSVT/T-MM/T-NNLS
 
 Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University, in 2022. His research is focused on 3D perception-reasoning task, 2D/3D pre-training, 2D/3D continuous learning, 2D/3D few-shot learning. His research outcomes (perception-reasoning task) have some impacts on industrial applications like airport checkpoint security perceptual recognition and localization of concealed or dangerous objects. His work has led to many awards, including Shanghai Rising Star awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. 
 
@@ -28,7 +28,7 @@ He is currently a Researcher with Shanghai AI Laboratory, working on developing 
 
 # News
 ---
-- Sep 24, 2023, StructChart, our research on visual chart, has been released ([arXiv paper](https://arxiv.org/abs/2309.11268)), where we will release the SimChart9K dataset powered by LLM, and observe that StructChart continuously improves the chart perception performance as more simulated charts are used for pre-training.
+- Sep 24, 2023, StructChart, our research on visual chart, has been released ([arXiv paper](https://arxiv.org/abs/2309.11268)), where we will release the SimChart9K dataset powered by LLM. By the proposed SimChart9K, we observe that StructChart continuously improves the chart perception performance as more simulated charts are used for pre-training.
 - Sep 23, 2023, SPOT, showing a promising and **scalable** 3D pre-training on autonomous driving, has been released (See our paper for more details, [arXiv paper](https://arxiv.org/abs/2309.10527)).
 - Sep 22, 2023, One paper entitled “AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset” is accepted by **NeurIPS-2023**.
 - Aug 16, 2023, One paper about cross-domain background-fouced alignment "Rethinking Cross-Domain Pedestrian Detection: A Background-Focused Distribution Alignment Framework for Instance-Free One-Stage Detectors" is accepted by **TIP**.
