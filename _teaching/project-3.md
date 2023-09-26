@@ -1,9 +1,9 @@
 ---
-title: "3DTrans Introduction"
-excerpt: "3DTrans: An Open-source Codebase for exploring Continuous-learning/Pre-training-oriented Autonomous Driving Task"
+title: "3DTrans Codebase Introduction"
+excerpt: "An Open-source Codebase for exploring Continuous-learning/Pre-training-oriented Autonomous Driving Task"
 collection: teaching
 permalink: /teaching/project-3
-venue: "The first codebase for 3D Transfer Learning"
+venue: "The first codebase for 3D pre-training and continuous learning"
 date: 2023-03-15
 location: "3DTrans"
 ---
