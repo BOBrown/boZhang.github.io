@@ -8,6 +8,13 @@ date: 2023-03-15
 location: "3DTrans"
 ---
 
+<p align="center">
+    <img  src="../images/seq_demo_once.gif" width="70%">
+</p>
+
+<p align="center">
+<img src="../images/seq_demo_nusc.gif" width="70%">
+</p>
 
 ## Overall
 
@@ -132,6 +139,7 @@ SESS[5] is an algorithm that guides the teacher model and the student model to r
 At present, the visualization modules of some existing 3D point cloud code libraries are all single-frame visualizations, which lack processing for time-series data. To this end, we have added a Sequence-level visual UI tool to the `3DTrans`  codebase, and the visualization effect is very intuitive. Currently, it mainly supports the visualization of timing detection results of Waymo, ONCE and nuScenes datasets. The user can give a sequence ID to generate the corresponding visual content.
 
 ![Untitled](../images/3DTrans_1.gif)
+
 
 ## What `3DTrans` is Doing
 
