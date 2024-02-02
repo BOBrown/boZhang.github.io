@@ -8,26 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Researcher & 3DTrans Team Leader, Shanghai AI Laboratory.
+Researcher & Shanghai AI Laboratory.
 
 **Office**: Level 12, L1, Longwen Road No. 129, Xuhui District, Shanghai, China
 
 **Email**: zhangbo [at] pjlab.org.cn & bo.zhangzx [at] gmail.com
 
-**Academic activities**: Reviewer at CVPR/ECCV/ICCV/ACM-MM & TIP/TGRS/T-CSVT/T-MM/T-NNLS
+**Academic activities**: Reviewer at CVPR/ECCV/ICCV/ICML/ACM-MM & T-PAMI/TIP/TGRS/T-CSVT/T-MM/T-NNLS
 
-Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University, in 2022. His research is focused on 3D perception-reasoning task, 2D/3D pre-training, 2D/3D continuous learning, 2D/3D few-shot learning. His research outcomes (perception-reasoning task) have some impacts on industrial applications like airport checkpoint security perceptual recognition and localization of concealed or dangerous objects. His work has led to many awards, including Shanghai Rising Star awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. 
+Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University, in 2022. His research is focused on 3D multi-modal complicated reasoning task, including multi-modal structural representation learning, 2D/3D pre-training, 2D/3D continuous learning. 
 
-He is currently a Researcher with Shanghai AI Laboratory, working on developing many major open-source projects including: 1) **Open-source codebase of continuous learning/pre-training** ([3DTrans Code Link](https://github.com/PJLab-ADG/3DTrans)); 2) **Open-source perception-reasoning codebase for multi-modal structured-knowledge learning**
+His work has led to many awards, including **Shanghai Rising Star** awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security perceptual recognition and localization of concealed or dangerous objects. 
+
+He is currently a Researcher with Shanghai AI Laboratory, working on developing many major open-source projects including: 1) **Open-source codebase of 3D pre-training task** ([3DTrans Code Link](https://github.com/PJLab-ADG/3DTrans)); 2) **Open-source codebase of multi-modal complicated reasoning task**
 
 
-***We are hiring***: Our team aims to broaden the boundaries of general perception-reasoning task, trying to find unified-yet-structured representations that can be generalized across different domains and scenarios under different modalities and tasks. Meanwhile, we are working on extracting knowledge-rich data from different domains. We are searching for highly self-motivated interns. If you are interested in our research tpoic, do not hesitate to contact me.
-
-
-<br/>
+<!-- ***We are hiring***: Our team aims to broaden the boundaries of general perception-reasoning task, trying to find unified-yet-structured representations that can be generalized across different domains and scenarios under different modalities and tasks. Meanwhile, we are working on extracting knowledge-rich data from different domains. We are searching for highly self-motivated interns. If you are interested in our research tpoic, do not hesitate to contact me. -->
 
 # News
 ---
+- Jan 15, 2024, Our paper entitled "ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation" ([arXiv paper](https://arxiv.org/abs/2309.05527)) is accepted for publication in **ICLR 2024**.
 - Sep 24, 2023, StructChart, our research on visual chart, has been released ([arXiv paper](https://arxiv.org/abs/2309.11268)), where we will release the SimChart9K dataset powered by LLM. By the proposed SimChart9K, we observe that StructChart continuously improves the chart perception performance as more simulated charts are used for pre-training.
 - Sep 23, 2023, SPOT, showing a promising and **scalable** 3D pre-training on autonomous driving, has been released (See our paper for more details, [arXiv paper](https://arxiv.org/abs/2309.10527)).
 - Sep 22, 2023, One paper entitled “AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset” is accepted by **NeurIPS-2023**.
@@ -46,6 +46,8 @@ He is currently a Researcher with Shanghai AI Laboratory, working on developing 
 # Selected Publications
 ---
 - ^ refers to the corresponding author (project lead)
+
+ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation. **Bo Zhang**, Xinyu Cai, Jiakang Yuan, Donglin Yang, Jianfei Guo, Xiangchao Yan, Renqiu Xia, Botian Shi, Min Dou, Tao Chen, Si Liu, Junchi Yan, Yu Qiao. <u>Published in ICLR-2024.</u> ([Code](https://github.com/PJLab-ADG/3DTrans#resimad), Tsinghua A)
 
 AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset. Jiakang Yuan, **Bo Zhang^**, Xiangchao Yan, Tao Chen, Botian Shi, Yikang LI, Yu Qiao. <u>Published in NeurIPS-2023.</u> ([Code](https://github.com/PJLab-ADG/3DTrans), CCF A)
 
@@ -70,9 +72,10 @@ Sample-centric feature generation for semi-supervised few-shot learning. **B Zha
 
 Joint distribution alignment via adversarial learning for domain adaptive object detection. **B Zhang**, T Chen, B Wang, R Li. <u>Published in TMM.</u> ([Code](https://github.com/BOBrown/JADF-caffe), Tsinghua-A, Accept without any changes during the first round)
 
-Object-aware long-short-range spatial alignment for few-shot fine-grained image classification. Y Wu, **B Zhang**, G Yu, W Zhang, B Wang, T Chen, J Fan. <u>Published in ACM-MM-2021.</u> (CCF A)
+<!-- 
+Object-aware long-short-range spatial alignment for few-shot fine-grained image classification. Y Wu, **B Zhang**, G Yu, W Zhang, B Wang, T Chen, J Fan. <u>Published in ACM-MM-2021.</u> (CCF A) -->
 
-<br/>
+<!-- <br/> -->
 
 # Ph.D Thesis
 ---
