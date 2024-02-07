@@ -18,7 +18,7 @@ Researcher & Shanghai AI Laboratory.
 
 Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University, in 2022. His research is focused on 3D multi-modal complicated reasoning task, including multi-modal structural representation learning, 2D/3D pre-training, 2D/3D continuous learning. 
 
-His work has led to many awards, including **Shanghai Rising Star** awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security perceptual recognition and localization of concealed or dangerous objects. 
+His work has led to many awards, including **Shanghai Rising Star** under Grant No. 23QD1401000, awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security perceptual recognition and localization of concealed or dangerous objects. 
 
 He is currently a Researcher with Shanghai AI Laboratory, working on developing many major open-source projects including: 1) **Open-source codebase of 3D pre-training task** ([3DTrans Code Link](https://github.com/PJLab-ADG/3DTrans)); 2) **Open-source codebase of multi-modal complicated reasoning task**
 
