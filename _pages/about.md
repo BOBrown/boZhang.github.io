@@ -27,6 +27,9 @@ He is currently a Researcher with Shanghai AI Laboratory, working on developing 
 
 # News
 ---
+- May 16, 2024, Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models ([arXiv paper](https://arxiv.org/abs/2402.14800)) is accepted by **ACL 2024**.
+- May 02, 2024, Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm ([arXiv paper](https://arxiv.org/abs/2402.03660)) is accepted for publication in **ICML 2024**.
+- Feb 28, 2024, Our paper entitled "Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression" ([arXiv paper](https://arxiv.org/abs/2403.15835)) is accepted for publication in **CVPR 2024**.
 - Jan 15, 2024, Our paper entitled "ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation" ([arXiv paper](https://arxiv.org/abs/2309.05527)) is accepted for publication in **ICLR 2024**.
 - Sep 24, 2023, StructChart, our research on visual chart, has been released ([arXiv paper](https://arxiv.org/abs/2309.11268)), where we will release the SimChart9K dataset powered by LLM. By the proposed SimChart9K, we observe that StructChart continuously improves the chart perception performance as more simulated charts are used for pre-training.
 - Sep 23, 2023, SPOT, showing a promising and **scalable** 3D pre-training on autonomous driving, has been released (See our paper for more details, [arXiv paper](https://arxiv.org/abs/2309.10527)).
@@ -47,6 +50,21 @@ He is currently a Researcher with Shanghai AI Laboratory, working on developing 
 ---
 - ^ refers to the corresponding author (project lead)
 
+**Efficient AI:**
+
+Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models. Xudong Lu, Qi Liu, Yuhui Xu, Aojun Zhou, Siyuan Huang, Bo Zhang, Junchi Yan, Hongsheng Li. <u>Published in ACL-2024.</u> ([Code](https://github.com/Lucky-Lance/Expert_Sparsity), CCF A)
+
+Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm. Zhanpeng Zhou, Zijun Chen, Yilan Chen, **Bo Zhang^**, Junchi Yan. <u>Published in ICML-2024.</u> ([arXiv](https://arxiv.org/pdf/2402.03660), CCF A)
+
+Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression. Hancheng Ye, Chong Yu, Peng Ye, Renqiu Xia, Yansong Tang, Jiwen Lu, Tao Chen, **Bo Zhang^**. <u>Published in CVPR-2024.</u> ([Code](https://github.com/HankYe/yolov5prune), CCF A)
+
+Generative Diffusion Prior for Unified Image Restoration and Enhancement. Ben Fei, Zhaoyang Lyu, Liang Pan, Junzhe Zhang, Weidong Yang, Tianyue Luo, **Bo Zhang**, Bo Dai. <u>Published in CVPR-2023.</u> ([Code](https://github.com/Fayeben/GenerativeDiffusionPrior), CCF A)
+
+Performance-aware Approximation of Global Channel Pruning for Multitask CNNs. Hancheng Ye, **Bo Zhang**, Tao Chen, Jiayuan Fan, and Bin Wang. <u>Published in T-PAMI.</u> ([Code](https://github.com/HankYe/yolov5prune), CCF A)
+
+
+**Autonomous Driving and domain transfer**:
+
 ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation. **Bo Zhang**, Xinyu Cai, Jiakang Yuan, Donglin Yang, Jianfei Guo, Xiangchao Yan, Renqiu Xia, Botian Shi, Min Dou, Tao Chen, Si Liu, Junchi Yan, Yu Qiao. <u>Published in ICLR-2024.</u> ([Code](https://github.com/PJLab-ADG/3DTrans#resimad), Tsinghua A)
 
 AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset. Jiakang Yuan, **Bo Zhang^**, Xiangchao Yan, Tao Chen, Botian Shi, Yikang LI, Yu Qiao. <u>Published in NeurIPS-2023.</u> ([Code](https://github.com/PJLab-ADG/3DTrans), CCF A)
@@ -55,14 +73,9 @@ Rethinking Cross-Domain Pedestrian Detection: A Background-Focused Distribution 
 
 SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification. Siyuan Huang, **Bo Zhang^**, Botian Shi, Peng Gao, Yikang Li, and Hongsheng Li. <u>Published in ACM-MM-2023.</u> ([Code](https://github.com/SiyuanHuang95/SUG), CCF A)
 
-Performance-aware Approximation of Global Channel Pruning for Multitask CNNs. Hancheng Ye, **Bo Zhang**, Tao Chen, Jiayuan Fan, and Bin Wang. <u>Published in T-PAMI.</u> ([Code](https://github.com/HankYe/yolov5prune), CCF A)
-
-
 Uni3D: A Unified Baseline for Multi-dataset 3D Object Detection. **Bo Zhang**, Jiakang Yuan, Botian Shi, Tao Chen, Yikang LI, Yu Qiao. <u>Published in CVPR-2023.</u> ([Code](https://github.com/PJLab-ADG/3DTrans), CCF A)
 
 Bi3D: Bi-domain Active Learning for Cross-domain 3D Object Detection. Jiakang Yuan, **Bo Zhang^**, Xiangchao Yan, Tao Chen, Botian Shi, Yikang LI, Yu Qiao. <u>Published in CVPR-2023.</u> ([Code](https://github.com/PJLab-ADG/3DTrans), CCF A)
-
-Generative Diffusion Prior for Unified Image Restoration and Enhancement. Ben Fei, Zhaoyang Lyu, Liang Pan, Junzhe Zhang, Weidong Yang, Tianyue Luo, **Bo Zhang**, Bo Dai. <u>Published in CVPR-2023.</u> ([Code](https://github.com/Fayeben/GenerativeDiffusionPrior), CCF A)
 
 A Closer Look at Few-Shot 3D Point Cloud Classification. C Ye, H Zhu, **B Zhang**, T Chen. <u>Published in IJCV.</u> (CCF A)
 
@@ -72,10 +85,6 @@ Sample-centric feature generation for semi-supervised few-shot learning. **B Zha
 
 Joint distribution alignment via adversarial learning for domain adaptive object detection. **B Zhang**, T Chen, B Wang, R Li. <u>Published in TMM.</u> ([Code](https://github.com/BOBrown/JADF-caffe), Tsinghua-A, Accept without any changes during the first round)
 
-<!-- 
-Object-aware long-short-range spatial alignment for few-shot fine-grained image classification. Y Wu, **B Zhang**, G Yu, W Zhang, B Wang, T Chen, J Fan. <u>Published in ACM-MM-2021.</u> (CCF A) -->
-
-<!-- <br/> -->
 
 # Ph.D Thesis
 ---
