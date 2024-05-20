@@ -14,11 +14,11 @@ Researcher & Shanghai AI Laboratory.
 
 **Email**: zhangbo [at] pjlab.org.cn & bo.zhangzx [at] gmail.com
 
-**Academic activities**: Reviewer at CVPR/ECCV/ICCV/ICML/ACM-MM & T-PAMI/TIP/TGRS/T-CSVT/T-MM/T-NNLS
+**Academic activities**: Reviewer at CVPR/ECCV/ICCV/ICML/ICLR/ACM-MM & T-PAMI/TIP/TGRS/T-CSVT/T-MM/T-NNLS/TKDE
 
 Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University, in 2022. His research is focused on 3D multi-modal complicated reasoning task, including multi-modal structural representation learning, 2D/3D pre-training, 2D/3D continuous learning. 
 
-His work has led to many awards, including Shanghai Rising Star under Grant No. 23QD1401000, awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security perceptual recognition and localization of concealed or dangerous objects. 
+His work has led to many awards, including **Shanghai Rising Star** under Grant No. 23QD1401000, awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security perceptual recognition and localization of concealed or dangerous objects. 
 
 He is currently a Researcher with Shanghai AI Laboratory, working on developing many major open-source projects including: 1) **Open-source codebase of 3D pre-training task** ([3DTrans Code Link](https://github.com/PJLab-ADG/3DTrans)); 2) **Open-source codebase of multi-modal complicated reasoning task**
 
@@ -38,8 +38,8 @@ He is currently a Researcher with Shanghai AI Laboratory, working on developing 
 - Jul 20, 2023, One paper entitled "SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification" is accepted by **ACM MM-2023**.
 - May 25, 2023, AD-PT, our research on **3D point-cloud pre-training**, has been released ([Code](https://github.com/PJLab-ADG/3DTrans), [arXiv paper](https://arxiv.org/abs/2306.00612)).
 - Apr 10, 2023, One paper entitled "Performance-aware Approximation of Global Channel Pruning for Multitask CNNs" is accepted for publication in **T-PAMI**.
-- Mar 05, 2023, Bo Zhang started to work on exploring the general perception-reasoning task, by leveraging the off-the-shelf foundation LLM models powered by extracting structured knowledge-rich data.
-- Mar 8, 2023, **Three papers** are accepted by CVPR-2023: Uni3D, Bi3D, GDP.
+- Mar 20, 2023, Bo Zhang started to work on exploring how to improve the reasoning ability of LLMs or VLMs in complex modalities, such as **Chart, Table, Geometry, Scientific Document Understanding**, by investigating foundation LLM models from the perspective of structured knowledge-rich data.
+- Mar 08, 2023, **Three papers** are accepted by CVPR-2023: Uni3D, Bi3D, GDP.
 - Dec 20, 2022, One paper entitled "A Closer Look at Few-Shot 3D Point Cloud Classification" is accepted for publication in **IJCV**.
 - Jun 15, 2022, Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University.
 
@@ -48,11 +48,11 @@ He is currently a Researcher with Shanghai AI Laboratory, working on developing 
 
 # Selected Publications
 ---
-- ^ refers to the corresponding author (project lead)
+- ^ refers to the corresponding author
 
 **Efficient AI:**
 
-Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models. Xudong Lu, Qi Liu, Yuhui Xu, Aojun Zhou, Siyuan Huang, Bo Zhang, Junchi Yan, Hongsheng Li. <u>Published in ACL-2024.</u> ([Code](https://github.com/Lucky-Lance/Expert_Sparsity), CCF A)
+Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models. Xudong Lu, Qi Liu, Yuhui Xu, Aojun Zhou, Siyuan Huang, **Bo Zhang**, Junchi Yan, Hongsheng Li. <u>Published in ACL-2024.</u> ([Code](https://github.com/Lucky-Lance/Expert_Sparsity), CCF A)
 
 Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm. Zhanpeng Zhou, Zijun Chen, Yilan Chen, **Bo Zhang^**, Junchi Yan. <u>Published in ICML-2024.</u> ([arXiv](https://arxiv.org/pdf/2402.03660), CCF A)
 
