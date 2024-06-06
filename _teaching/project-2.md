@@ -4,8 +4,8 @@ excerpt: "We construct DocGenome, a structured document dataset covering annotat
 collection: teaching
 permalink: /teaching/project-2
 venue: "500K scientific documents including 6.5M pages with 13 attributes of component units, 6 logical relationships between units, and 7 document-oriented tasks"
-date: 2023-03-15
-location: "3DTrans"
+date: 2024-06-10
+location: "DocGenome"
 ---
 
 
