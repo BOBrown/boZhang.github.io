@@ -27,8 +27,9 @@ He is currently a Researcher with Shanghai AI Laboratory, working on developing 
 
 # News
 ---
+- Jul 01, 2024, RegTTA3D: Regression Makes Better Test-time Adaptive 3D Object Detection ([arXiv paper](https://arxiv.org/abs/2402.14800)) is accepted by **ECCV 2024**.
 - May 16, 2024, Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models ([arXiv paper](https://arxiv.org/abs/2402.14800)) is accepted by **ACL 2024**.
-- May 02, 2024, Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm ([arXiv paper](https://arxiv.org/abs/2402.03660)) is accepted for publication in **ICML 2024**.
+- May 02, 2024,  Our paper entitled "Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm" ([arXiv paper](https://arxiv.org/abs/2402.03660)) is accepted for publication in **ICML 2024**.
 - Feb 28, 2024, Our paper entitled "Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression" ([arXiv paper](https://arxiv.org/abs/2403.15835)) is accepted for publication in **CVPR 2024**.
 - Jan 15, 2024, Our paper entitled "ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation" ([arXiv paper](https://arxiv.org/abs/2309.05527)) is accepted for publication in **ICLR 2024**.
 - Jan 02, 2024, **Two papers** are accepted by TCSVT: [IPNet](https://ieeexplore.ieee.org/abstract/document/10516600), [MVNet](https://ieeexplore.ieee.org/abstract/document/10360874).
