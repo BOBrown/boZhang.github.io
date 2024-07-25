@@ -186,7 +186,19 @@ DocParser can convert LaTeX source code of a complete document into annotations 
 ## Citation
 If you find our work useful in your research, please consider citing Fox:
 ```bibtex
-@article{,
+@article{xia2024docgenome,
+  title={DocGenome: An Open Large-scale Scientific Document Benchmark for Training and Testing Multi-modal Large Language Models},
+  author={Xia, Renqiu and Mao, Song and Yan, Xiangchao and Zhou, Hongbin and Zhang, Bo and Peng, Haoyang and Pi, Jiahao and Fu, Daocheng and Wu, Wenjie and Ye, Hancheng and others},
+  journal={arXiv preprint arXiv:2406.11633},
+  year={2024}
+}
+```
 
+```bibtex
+@article{wang2024unimernet,
+  title={UniMERNet: A Universal Network for Real-World Mathematical Expression Recognition},
+  author={Wang, Bin and Gu, Zhuangcheng and Xu, Chao and Zhang, Bo and Shi, Botian and He, Conghui},
+  journal={arXiv preprint arXiv:2404.15254},
+  year={2024}
 }
 ```

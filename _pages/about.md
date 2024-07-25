@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Researcher & Shanghai AI Laboratory.
+Researcher & Shanghai Artificial Intelligence Laboratory.
 
 **Office**: Level 12, L1, Longwen Road No. 129, Xuhui District, Shanghai, China
 
@@ -16,17 +16,16 @@ Researcher & Shanghai AI Laboratory.
 
 **Academic activities**: Reviewer at CVPR/ECCV/ICCV/ICML/ICLR/ACM-MM & T-PAMI/TIP/TGRS/T-CSVT/T-MM/T-NNLS/TKDE
 
-Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University, in 2022. His research is focused on 3D multi-modal complicated reasoning task, including multi-modal structural representation learning, 2D/3D pre-training, 2D/3D continuous learning. 
+Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University, in 2022. His research is focused on 3D multi-modal complicated reasoning task, including multi-modal structural representation learning, Chart/Table understanding. 2D/3D multi-modal pre-training. 
 
 His work has led to many awards, including **Shanghai Rising Star** under Grant No. 23QD1401000, awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security perceptual recognition and localization of concealed or dangerous objects. 
 
-He is currently a Researcher with Shanghai AI Laboratory, working on developing many major open-source projects including: 1) **Open-source codebase of 3D pre-training task** ([3DTrans Code Link](https://github.com/PJLab-ADG/3DTrans)); 2) **Open-source codebase of multi-modal complicated reasoning task**
-
+He is currently a Researcher with Shanghai Artificial Intelligence Laboratory, working on developing many major open-source projects including: 1) **Open-source codebase of 3D pre-training and transfer learning** ([3DTrans Code Link](https://github.com/PJLab-ADG/3DTrans)); 2) **Open-source codebase of multi-modal complicated document reasoning** ([DocGenome](https://unimodal4reasoning.github.io/DocGenome_page))
 
 <!-- ***We are hiring***: Our team aims to broaden the boundaries of general perception-reasoning task, trying to find unified-yet-structured representations that can be generalized across different domains and scenarios under different modalities and tasks. Meanwhile, we are working on extracting knowledge-rich data from different domains. We are searching for highly self-motivated interns. If you are interested in our research tpoic, do not hesitate to contact me. -->
 
 # News
----
+
 - Jul 01, 2024, RegTTA3D: Regression Makes Better Test-time Adaptive 3D Object Detection ([arXiv paper](https://arxiv.org/abs/2402.14800)) is accepted by **ECCV 2024**.
 - May 16, 2024, Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models ([arXiv paper](https://arxiv.org/abs/2402.14800)) is accepted by **ACL 2024**.
 - May 02, 2024,  Our paper entitled "Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm" ([arXiv paper](https://arxiv.org/abs/2402.03660)) is accepted for publication in **ICML 2024**.
@@ -46,38 +45,36 @@ He is currently a Researcher with Shanghai AI Laboratory, working on developing 
 - Jun 15, 2022, Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University.
 
 
-<br/>
-
 # Selected Publications
----
+
 - ^ refers to the corresponding author
 
 **Efficient AI:**
 
 Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models. Xudong Lu, Qi Liu, Yuhui Xu, Aojun Zhou, Siyuan Huang, **Bo Zhang**, Junchi Yan, Hongsheng Li. <u>Published in ACL-2024.</u> ([Code](https://github.com/Lucky-Lance/Expert_Sparsity), CCF A)
 
-Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm. Zhanpeng Zhou, Zijun Chen, Yilan Chen, **Bo Zhang^**, Junchi Yan. <u>Published in ICML-2024.</u> ([arXiv](https://arxiv.org/pdf/2402.03660), CCF A)
+Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm. Zhanpeng Zhou, Zijun Chen, Yilan Chen, **Bo Zhang^(corr.)**, Junchi Yan. <u>Published in ICML-2024.</u> ([arXiv](https://arxiv.org/pdf/2402.03660), CCF A)
 
-Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression. Hancheng Ye, Chong Yu, Peng Ye, Renqiu Xia, Yansong Tang, Jiwen Lu, Tao Chen, **Bo Zhang^**. <u>Published in CVPR-2024.</u> ([Code](https://github.com/HankYe/yolov5prune), CCF A)
+Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression. Hancheng Ye, Chong Yu, Peng Ye, Renqiu Xia, Yansong Tang, Jiwen Lu, Tao Chen, **Bo Zhang^(corr.)**. <u>Published in CVPR-2024.</u> ([Code](https://github.com/HankYe/yolov5prune), CCF A)
 
 Generative Diffusion Prior for Unified Image Restoration and Enhancement. Ben Fei, Zhaoyang Lyu, Liang Pan, Junzhe Zhang, Weidong Yang, Tianyue Luo, **Bo Zhang**, Bo Dai. <u>Published in CVPR-2023.</u> ([Code](https://github.com/Fayeben/GenerativeDiffusionPrior), CCF A)
 
 Performance-aware Approximation of Global Channel Pruning for Multitask CNNs. Hancheng Ye, **Bo Zhang**, Tao Chen, Jiayuan Fan, and Bin Wang. <u>Published in T-PAMI.</u> ([Code](https://github.com/HankYe/yolov5prune), CCF A)
 
 
-**Autonomous Driving and domain transfer**:
+**Autonomous Driving and Domain Transfer**:
 
 ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation. **Bo Zhang**, Xinyu Cai, Jiakang Yuan, Donglin Yang, Jianfei Guo, Xiangchao Yan, Renqiu Xia, Botian Shi, Min Dou, Tao Chen, Si Liu, Junchi Yan, Yu Qiao. <u>Published in ICLR-2024.</u> ([Code](https://github.com/PJLab-ADG/3DTrans#resimad), Tsinghua A)
 
-AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset. Jiakang Yuan, **Bo Zhang^**, Xiangchao Yan, Tao Chen, Botian Shi, Yikang LI, Yu Qiao. <u>Published in NeurIPS-2023.</u> ([Code](https://github.com/PJLab-ADG/3DTrans), CCF A)
+AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset. Jiakang Yuan, **Bo Zhang^(corr.)**, Xiangchao Yan, Tao Chen, Botian Shi, Yikang LI, Yu Qiao. <u>Published in NeurIPS-2023.</u> ([Code](https://github.com/PJLab-ADG/3DTrans), CCF A)
 
 Rethinking Cross-Domain Pedestrian Detection: A Background-Focused Distribution Alignment Framework for Instance-Free One-Stage Detectors. Yancheng Cai, **Bo Zhang**, Baopu Li, Tao Chen, Hongliang Yan, and Jiahao Xu. <u>Published in TIP.</u> (Code will be available, CCF A)
 
-SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification. Siyuan Huang, **Bo Zhang^**, Botian Shi, Peng Gao, Yikang Li, and Hongsheng Li. <u>Published in ACM-MM-2023.</u> ([Code](https://github.com/SiyuanHuang95/SUG), CCF A)
+SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification. Siyuan Huang, **Bo Zhang^(corr.)**, Botian Shi, Peng Gao, Yikang Li, and Hongsheng Li. <u>Published in ACM-MM-2023.</u> ([Code](https://github.com/SiyuanHuang95/SUG), CCF A)
 
 Uni3D: A Unified Baseline for Multi-dataset 3D Object Detection. **Bo Zhang**, Jiakang Yuan, Botian Shi, Tao Chen, Yikang LI, Yu Qiao. <u>Published in CVPR-2023.</u> ([Code](https://github.com/PJLab-ADG/3DTrans), CCF A)
 
-Bi3D: Bi-domain Active Learning for Cross-domain 3D Object Detection. Jiakang Yuan, **Bo Zhang^**, Xiangchao Yan, Tao Chen, Botian Shi, Yikang LI, Yu Qiao. <u>Published in CVPR-2023.</u> ([Code](https://github.com/PJLab-ADG/3DTrans), CCF A)
+Bi3D: Bi-domain Active Learning for Cross-domain 3D Object Detection. Jiakang Yuan, **Bo Zhang^(corr.)**, Xiangchao Yan, Tao Chen, Botian Shi, Yikang LI, Yu Qiao. <u>Published in CVPR-2023.</u> ([Code](https://github.com/PJLab-ADG/3DTrans), CCF A)
 
 A Closer Look at Few-Shot 3D Point Cloud Classification. C Ye, H Zhu, **B Zhang**, T Chen. <u>Published in IJCV.</u> (CCF A)
 
@@ -89,7 +86,6 @@ Joint distribution alignment via adversarial learning for domain adaptive object
 
 
 # Ph.D Thesis
----
 
 During the period of pursuing a Ph.D degree, Bo Zhang was focused on studying domain adaptive 2D object detection or semantic segmentation models, and has deep research and practical experience for the model adaptation/transfer task.
 
