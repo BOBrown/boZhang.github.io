@@ -16,33 +16,39 @@ Researcher & Shanghai Artificial Intelligence Laboratory.
 
 **Academic activities**: Reviewer at CVPR/ECCV/ICCV/ICML/ICLR/ACM-MM & T-PAMI/TIP/TGRS/T-CSVT/T-MM/T-NNLS/TKDE
 
-Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University, in 2022. His research is focused on 3D multi-modal complicated reasoning task, including multi-modal structural representation learning, Chart/Table understanding. 2D/3D multi-modal pre-training. 
+Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University, in 2022. Currently, he is committed to promoting the rapid application of multi-modal large language models in various scenarios, such as scientific document understanding, scientific research surveys, mathematical reasoning, and autonomous driving.
 
 His work has led to many awards, including **Shanghai Rising Star** under Grant No. 23QD1401000, awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security perceptual recognition and localization of concealed or dangerous objects. 
 
-He is currently a Researcher with Shanghai Artificial Intelligence Laboratory, working on developing many major open-source projects including: 1) **Open-source codebase of 3D pre-training and transfer learning** ([3DTrans Code Link](https://github.com/PJLab-ADG/3DTrans)); 2) **Open-source codebase of multi-modal complicated document reasoning** ([DocGenome](https://unimodal4reasoning.github.io/DocGenome_page))
+<!-- He is currently a Researcher with Shanghai Artificial Intelligence Laboratory, leading the development of several open-source projects, such as:: 1) **Open-source codebase of pre-training and continuous learning** ([3DTrans Code Link](https://github.com/PJLab-ADG/3DTrans)); 2) **Open-source codebase of multi-modal complicated document reasoning** ([DocGenome](https://unimodal4reasoning.github.io/DocGenome_page)) -->
 
 <!-- ***We are hiring***: Our team aims to broaden the boundaries of general perception-reasoning task, trying to find unified-yet-structured representations that can be generalized across different domains and scenarios under different modalities and tasks. Meanwhile, we are working on extracting knowledge-rich data from different domains. We are searching for highly self-motivated interns. If you are interested in our research tpoic, do not hesitate to contact me. -->
 
 # News
+**2024:**
+- Aug 13, 2024: Bo Zhang was invited to serve as a PC member.
+- Aug 08, 2024: We open-sourced [Models](https://huggingface.co/U4R/StructTable-base) and [StructEqTable-Deploy](https://github.com/UniModal4Reasoning/StructEqTable-Deploy), which is a open-source repository to support the structuring tasks of visual tables.
+- Aug 01, 2024:  We collaborated with the OpenDataLab team to open-source the [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit?tab=readme-ov-file) repository, which can extract high-quality and structured content from PDFs and has gained **4K+** stars.
+- Jul 01, 2024: RegTTA3D: Regression Makes Better Test-time Adaptive 3D Object Detection is accepted by **ECCV 2024**.
+- Jun 06, 2024: We have released the [DocGenome benchmark](https://unimodal4reasoning.github.io/DocGenome_page/), a structured scientific document dataset constructed by annotating 500K scientific documents from 153 disciplines in the arXiv open-access community.
+- May 16, 2024: Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models ([arXiv paper](https://arxiv.org/abs/2402.14800)) is accepted by **ACL 2024**.
+- May 02, 2024: Our paper entitled "Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm" ([arXiv paper](https://arxiv.org/abs/2402.03660)) is accepted for publication in **ICML 2024**.
+- Feb 28, 2024: Our paper entitled "Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression" ([arXiv paper](https://arxiv.org/abs/2403.15835)) is accepted for publication in **CVPR 2024**.
+- Jan 15, 2024: Our paper entitled "ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation" ([arXiv paper](https://arxiv.org/abs/2309.05527)) is accepted for publication in **ICLR 2024**.
+- Jan 02, 2024: **Two papers** are accepted by TCSVT: [IPNet](https://ieeexplore.ieee.org/abstract/document/10516600), [MVNet](https://ieeexplore.ieee.org/abstract/document/10360874).
 
-- Jul 01, 2024, RegTTA3D: Regression Makes Better Test-time Adaptive 3D Object Detection ([arXiv paper](https://arxiv.org/abs/2402.14800)) is accepted by **ECCV 2024**.
-- May 16, 2024, Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models ([arXiv paper](https://arxiv.org/abs/2402.14800)) is accepted by **ACL 2024**.
-- May 02, 2024,  Our paper entitled "Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm" ([arXiv paper](https://arxiv.org/abs/2402.03660)) is accepted for publication in **ICML 2024**.
-- Feb 28, 2024, Our paper entitled "Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression" ([arXiv paper](https://arxiv.org/abs/2403.15835)) is accepted for publication in **CVPR 2024**.
-- Jan 15, 2024, Our paper entitled "ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation" ([arXiv paper](https://arxiv.org/abs/2309.05527)) is accepted for publication in **ICLR 2024**.
-- Jan 02, 2024, **Two papers** are accepted by TCSVT: [IPNet](https://ieeexplore.ieee.org/abstract/document/10516600), [MVNet](https://ieeexplore.ieee.org/abstract/document/10360874).
-- Sep 24, 2023, StructChart, our research on visual chart, has been released ([arXiv paper](https://arxiv.org/abs/2309.11268)), where we will release the SimChart9K dataset powered by LLM. By the proposed SimChart9K, we observe that StructChart continuously improves the chart perception performance as more simulated charts are used for pre-training.
+**2023:**
+- Sep 24, 2023: StructChart: our research on visual chart, has been released ([arXiv paper](https://arxiv.org/abs/2309.11268)), where we will release the SimChart9K dataset powered by LLM. By the proposed SimChart9K, we observe that StructChart continuously improves the chart perception performance as more simulated charts are used for pre-training.
 - Sep 29, 2023, SPOT, showing a promising and **scalable** 3D pre-training on autonomous driving, has been released (See our paper for more details, [arXiv paper](https://arxiv.org/abs/2309.10527)).
-- Sep 22, 2023, One paper entitled “AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset” is accepted by **NeurIPS-2023**.
-- Aug 16, 2023, One paper about cross-domain background-fouced alignment "Rethinking Cross-Domain Pedestrian Detection: A Background-Focused Distribution Alignment Framework for Instance-Free One-Stage Detectors" is accepted by **TIP**.
-- Jul 20, 2023, One paper entitled "SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification" is accepted by **ACM MM-2023**.
-- May 25, 2023, AD-PT, our research on **3D point-cloud pre-training**, has been released ([Code](https://github.com/PJLab-ADG/3DTrans), [arXiv paper](https://arxiv.org/abs/2306.00612)).
-- Apr 10, 2023, One paper entitled "Performance-aware Approximation of Global Channel Pruning for Multitask CNNs" is accepted for publication in **T-PAMI**.
-- Mar 20, 2023, Bo Zhang started to work on exploring how to improve the reasoning ability of LLMs or VLMs in complex modalities, such as **Chart, Table, Geometry, Scientific Document Understanding**, by investigating foundation LLM models from the perspective of structured knowledge-rich data.
-- Mar 08, 2023, **Three papers** are accepted by CVPR-2023: Uni3D, Bi3D, GDP.
-- Dec 20, 2022, One paper entitled "A Closer Look at Few-Shot 3D Point Cloud Classification" is accepted for publication in **IJCV**.
-- Jun 15, 2022, Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University.
+- Sep 22, 2023: One paper entitled “AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset” is accepted by **NeurIPS-2023**.
+- Aug 16, 2023: One paper about cross-domain background-fouced alignment "Rethinking Cross-Domain Pedestrian Detection: A Background-Focused Distribution Alignment Framework for Instance-Free One-Stage Detectors" is accepted by **TIP**.
+- Jul 20, 2023: One paper entitled "SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification" is accepted by **ACM MM-2023**.
+- May 25, 2023: AD-PT, our research on **3D point-cloud pre-training**, has been released ([Code](https://github.com/PJLab-ADG/3DTrans), [arXiv paper](https://arxiv.org/abs/2306.00612)).
+- Apr 10, 2023: One paper entitled "Performance-aware Approximation of Global Channel Pruning for Multitask CNNs" is accepted for publication in **T-PAMI**.
+- Mar 20, 2023: Bo Zhang started to work on exploring how to improve the reasoning ability of LLMs or VLMs in complex modalities, such as **Chart, Table, Geometry, Scientific Document Understanding**, by investigating foundation LLM models from the perspective of structured knowledge-rich data.
+- Mar 08, 2023: **Three papers** are accepted by CVPR-2023: Uni3D, Bi3D, GDP.
+- Dec 20, 2022: One paper entitled "A Closer Look at Few-Shot 3D Point Cloud Classification" is accepted for publication in **IJCV**.
+- Jun 15, 2022: Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University.
 
 
 # Selected Publications
