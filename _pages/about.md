@@ -38,6 +38,7 @@ His work has led to many awards, including **Shanghai Rising Star** under Grant 
 - Jan 02, 2024: **Two papers** are accepted by TCSVT: [IPNet](https://ieeexplore.ieee.org/abstract/document/10516600), [MVNet](https://ieeexplore.ieee.org/abstract/document/10360874).
 
 **2023:**
+- Dec 30, 2023: We have released the [ChartX](https://github.com/UniModal4Reasoning/ChartVLM?tab=readme-ov-file) benchmark ([data downloading](https://drive.google.com/file/d/1d6zyH3kIwgepTqR0fc67xzyUtblrvOIX/view)) to evaluate the chart-related capabilities of the existing MLLMS.
 - Sep 24, 2023: StructChart: our research on visual chart, has been released ([arXiv paper](https://arxiv.org/abs/2309.11268)), where we will release the SimChart9K dataset powered by LLM. By the proposed SimChart9K, we observe that StructChart continuously improves the chart perception performance as more simulated charts are used for pre-training.
 - Sep 29, 2023, SPOT, showing a promising and **scalable** 3D pre-training on autonomous driving, has been released (See our paper for more details, [arXiv paper](https://arxiv.org/abs/2309.10527)).
 - Sep 22, 2023: One paper entitled “AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset” is accepted by **NeurIPS-2023**.
