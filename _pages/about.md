@@ -26,7 +26,7 @@ His work has led to many awards, including **Shanghai Rising Star** under Grant 
 
 # News
 **2024:**
-- Aug 13, 2024: Bo Zhang was invited to serve as a PC member.
+- Aug 13, 2024: Bo Zhang was invited to serve as a PC member of AAAI 2025.
 - Aug 08, 2024: We open-sourced [Models](https://huggingface.co/U4R/StructTable-base) and [StructEqTable-Deploy](https://github.com/UniModal4Reasoning/StructEqTable-Deploy), which is a open-source repository to support the structuring tasks of visual tables.
 - Aug 01, 2024:  We collaborated with the OpenDataLab team to open-source the [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit?tab=readme-ov-file) repository, which can extract high-quality and structured content from PDFs and has gained **4K+** stars.
 - Jul 01, 2024: RegTTA3D: Regression Makes Better Test-time Adaptive 3D Object Detection is accepted by **ECCV 2024**.
