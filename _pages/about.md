@@ -16,7 +16,7 @@ Researcher & Shanghai Artificial Intelligence Laboratory.
 
 **Academic activities**: Reviewer at CVPR/ECCV/ICCV/ICML/ICLR/ACM-MM & T-PAMI/TIP/TGRS/T-CSVT/T-MM/T-NNLS/TKDE
 
-Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University, in 2022. Currently, he is committed to promoting the rapid application of multi-modal large language models in various scenarios, such as scientific document understanding, scientific research surveys, mathematical reasoning, and autonomous driving.
+Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University, in 2022. Currently, he is committed to promoting the rapid application of multi-modal large language models in various scenarios, such as scientific document understanding, automatic paper surveys, mathematical reasoning, and autonomous driving.
 
 His work has led to many awards, including **Shanghai Rising Star** under Grant No. 23QD1401000, awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security perceptual recognition and localization of concealed or dangerous objects. 
 
