@@ -26,6 +26,7 @@ His work has led to many awards, including **Shanghai Rising Star** under Grant 
 
 # News
 **2024:**
+- Sep 06, 2024: Previous evaluation emtrics for Formula and Table Recognition tasks, such as BLEU and Edit Distrance, exhibit limitations. [CDM](https://github.com/opendatalab/UniMERNet/tree/main/cdm) has been released to ensure the evaluation objectivity by designing a image-level rather than LaTex-level metric score for Formula and Table Recognition evaluation.
 - Aug 13, 2024: Bo Zhang was invited to serve as a PC member of AAAI 2025.
 - Aug 08, 2024: We open-sourced [Models](https://huggingface.co/U4R/StructTable-base) and [StructEqTable-Deploy](https://github.com/UniModal4Reasoning/StructEqTable-Deploy), which is a open-source repository to support the structuring tasks of visual tables.
 - Aug 01, 2024:  We collaborated with the OpenDataLab team to open-source the [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit?tab=readme-ov-file) repository, which can extract high-quality and structured content from PDFs and has gained **4K+** stars.
@@ -57,6 +58,10 @@ His work has led to many awards, including **Shanghai Rising Star** under Grant 
 - ^ refers to the corresponding author
 
 **Pre-training Models and Benchmarks:**
+
+- CDM: A Reliable Metric for Fair and Accurate Formula Recognition Evaluation. Bin Wang, Fan Wu, Linke Ouyang, Zhuangcheng Gu, Rui Zhang, Renqiu Xia, **Bo Zhang**, Conghui He. [[arXiv](https://arxiv.org/abs/2409.03643), [Benchmark](https://huggingface.co/datasets/wanderkid/UniMER_Dataset), [Metric](https://github.com/opendatalab/UniMERNet/tree/main/cdm)]
+
+- ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning. Renqiu Xia, **Bo Zhang**, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Min Dou, Botian Shi, Junchi Yan, Yu Qiao. [[arXiv](https://arxiv.org/abs/2402.12185), [Benchmark](https://github.com/UniModal4Reasoning/ChartVLM), [Metric](https://github.com/UniModal4Reasoning/ChartVLM/blob/main/eval/eval_SE_ChartX.py)]
 
 - DocGenome: An Open Large-scale Scientific Document Benchmark for Training and Testing Multi-modal Large Language Models. Renqiu Xia, Song Mao, Xiangchao Yan, Hongbin Zhou, **Bo Zhang^(corr.)**, ..., Bin Wang, Junchi Yan, Fei Wu, Yu Qiao. [Submitted to NeurIPS dataset track, 2024, [arXiv](https://arxiv.org/abs/2406.11633), [Benchmark](https://unimodal4reasoning.github.io/DocGenome_page/)]
 
