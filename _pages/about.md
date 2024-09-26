@@ -26,7 +26,7 @@ His work has led to many awards, including **Shanghai Rising Star** under Grant 
 
 # News
 **2024:**
-- Sep 26, 2024: **Three papers** are accepted by NeurIPS-2024: AdaptiveDiffusion, ZOPP, LeapAD.
+- Sep 26, 2024: Three papers are accepted by NeurIPS-2024: AdaptiveDiffusion, ZOPP, LeapAD.
 - Sep 06, 2024: Previous evaluation metrics for Formula and Table Recognition tasks, such as BLEU and Edit Distrance, exhibit limitations. [CDM](https://github.com/opendatalab/UniMERNet/tree/main/cdm) has been released to ensure the evaluation objectivity by designing an image-level rather than LaTex-level metric score for Formula and Table Recognition evaluation.
 - Aug 13, 2024: Bo Zhang was invited to serve as a PC member of AAAI 2025.
 - Aug 08, 2024: We open-sourced [Models](https://huggingface.co/U4R/StructTable-base) and [StructEqTable-Deploy](https://github.com/UniModal4Reasoning/StructEqTable-Deploy), which is a open-source repository to support the structuring tasks of visual tables.
