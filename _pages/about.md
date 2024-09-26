@@ -26,6 +26,7 @@ His work has led to many awards, including **Shanghai Rising Star** under Grant 
 
 # News
 **2024:**
+- Sep 26, 2024: **Three papers** are accepted by NeurIPS-2024: AdaptiveDiffusion, ZOPP, LeapAD.
 - Sep 06, 2024: Previous evaluation metrics for Formula and Table Recognition tasks, such as BLEU and Edit Distrance, exhibit limitations. [CDM](https://github.com/opendatalab/UniMERNet/tree/main/cdm) has been released to ensure the evaluation objectivity by designing an image-level rather than LaTex-level metric score for Formula and Table Recognition evaluation.
 - Aug 13, 2024: Bo Zhang was invited to serve as a PC member of AAAI 2025.
 - Aug 08, 2024: We open-sourced [Models](https://huggingface.co/U4R/StructTable-base) and [StructEqTable-Deploy](https://github.com/UniModal4Reasoning/StructEqTable-Deploy), which is a open-source repository to support the structuring tasks of visual tables.
@@ -77,11 +78,13 @@ His work has led to many awards, including **Shanghai Rising Star** under Grant 
 
 **Efficient AI Models:**
 
+- Training-Free Adaptive Diffusion with Bounded Difference Approximation Strategy. Hancheng Ye, Jiakang Yuan, Renqiu Xia, Xiangchao Yan, Tao Chen, Junchi Yan, Botian Shi, **Bo Zhang^(corr.)**. <u>Accepted by NeurIPS-2024.</u> [[arXiv](), [Code](https://github.com/HankYe/AdaptiveDiffusion), CCF A]
+
 - Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models. Xudong Lu, Qi Liu, Yuhui Xu, Aojun Zhou, Siyuan Huang, **Bo Zhang**, Junchi Yan, Hongsheng Li. <u>Published in ACL-2024.</u> [[arXiv](https://arxiv.org/abs/2402.14800), [Code](https://github.com/Lucky-Lance/Expert_Sparsity), CCF A]
 
 - Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression. Hancheng Ye, Chong Yu, Peng Ye, Renqiu Xia, Yansong Tang, Jiwen Lu, Tao Chen, **Bo Zhang^(corr.)**. <u>Published in CVPR-2024.</u> [[arXiv](https://arxiv.org/abs/2403.15835), [Code](https://github.com/HankYe/yolov5prune), CCF A]
 
-- Performance-aware Approximation of Global Channel Pruning for Multitask CNNs. Hancheng Ye, **Bo Zhang**, Tao Chen, Jiayuan Fan, and Bin Wang. <u>Published in T-PAMI.</u> [[IEEE](https://ieeexplore.ieee.org/document/10083285), [Code](https://github.com/HankYe/yolov5prune), CCF A)
+- Performance-aware Approximation of Global Channel Pruning for Multitask CNNs. Hancheng Ye, **Bo Zhang**, Tao Chen, Jiayuan Fan, and Bin Wang. <u>Published in T-PAMI.</u> [[IEEE](https://ieeexplore.ieee.org/document/10083285), [Code](https://github.com/HankYe/yolov5prune), CCF A]
 
 
 **Domain-adaptive Models**:
