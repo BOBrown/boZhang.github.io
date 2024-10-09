@@ -26,6 +26,7 @@ His work has led to many awards, including **Shanghai Rising Star** under Grant 
 
 # News
 **2024:**
+- Oct 02, 2024: The technical report for [MinerU](https://arxiv.org/abs/2409.18839), an open-source solution for high-precision document content extraction, has been published.
 - Sep 26, 2024: Three papers are accepted by **NeurIPS-2024**: AdaptiveDiffusion, ZOPP, LeapAD.
 - Sep 06, 2024: Previous evaluation metrics for Formula and Table Recognition tasks, such as BLEU and Edit Distrance, exhibit limitations. [CDM](https://github.com/opendatalab/UniMERNet/tree/main/cdm) has been released to ensure the evaluation objectivity by designing an image-level rather than LaTex-level metric score for Formula and Table Recognition evaluation.
 - Aug 13, 2024: Bo Zhang was invited to serve as a PC member of AAAI 2025.
@@ -54,17 +55,19 @@ His work has led to many awards, including **Shanghai Rising Star** under Grant 
 - Jun 15, 2022: Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University.
 
 
-# Selected Publications
+# Selected Publications and Preprints
 
 - ^ refers to the corresponding author
 
 **Pre-training Models and Benchmarks:**
 
+- MinerU: An Open-Source Solution for Precise Document Content Extraction. Bin Wang, Chao Xu, Xiaomeng Zhao, Linke Ouyang, Fan Wu, Zhiyuan Zhao, Rui Xu, Kaiwen Liu, Yuan Qu, Fukai Shang, **Bo Zhang**, Liqun Wei, Zhihao Sui, Wei Li, Botian Shi, Yu Qiao, Dahua Lin, Conghui He. [[arXiv](https://arxiv.org/abs/2409.18839), [Open-source Project](https://github.com/opendatalab/MinerU)]
+
 - CDM: A Reliable Metric for Fair and Accurate Formula Recognition Evaluation. Bin Wang, Fan Wu, Linke Ouyang, Zhuangcheng Gu, Rui Zhang, Renqiu Xia, **Bo Zhang**, Conghui He. [[arXiv](https://arxiv.org/abs/2409.03643), [Benchmark](https://huggingface.co/datasets/wanderkid/UniMER_Dataset), [Metric](https://github.com/opendatalab/UniMERNet/tree/main/cdm)]
 
 - ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning. Renqiu Xia, **Bo Zhang**, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Min Dou, Botian Shi, Junchi Yan, Yu Qiao. [[arXiv](https://arxiv.org/abs/2402.12185), [Benchmark](https://github.com/UniModal4Reasoning/ChartVLM), [Metric](https://github.com/UniModal4Reasoning/ChartVLM/blob/main/eval/eval_SE_ChartX.py)]
 
-- DocGenome: An Open Large-scale Scientific Document Benchmark for Training and Testing Multi-modal Large Language Models. Renqiu Xia, Song Mao, Xiangchao Yan, Hongbin Zhou, **Bo Zhang^(corr.)**, ..., Bin Wang, Junchi Yan, Fei Wu, Yu Qiao. [Submitted to NeurIPS dataset track, 2024, [arXiv](https://arxiv.org/abs/2406.11633), [Benchmark](https://unimodal4reasoning.github.io/DocGenome_page/)]
+- DocGenome: An Open Large-scale Scientific Document Benchmark for Training and Testing Multi-modal Large Language Models. Renqiu Xia, Song Mao, Xiangchao Yan, Hongbin Zhou, **Bo Zhang^(corr.)**, ..., Bin Wang, Junchi Yan, Fei Wu, Yu Qiao. [[arXiv](https://arxiv.org/abs/2406.11633), [Benchmark](https://unimodal4reasoning.github.io/DocGenome_page/)]
 
 - Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm. Zhanpeng Zhou, Zijun Chen, Yilan Chen, **Bo Zhang^(corr.)**, Junchi Yan. <u>Published in ICML-2024.</u> [[arXiv](https://arxiv.org/pdf/2402.03660), CCF A]
 
@@ -103,7 +106,7 @@ His work has led to many awards, including **Shanghai Rising Star** under Grant 
 
 - Learning cross-image object semantic relation in transformer for few-shot fine-grained image classification. **B Zhang**, J Yuan, B Li, T Chen, J Fan, B Shi. <u>Published in ACM-MM-2022.</u> [[arXiv](https://arxiv.org/abs/2207.00784), [Code](https://github.com/JiakangYuan/HelixFormer), CCF A]
 
-- Joint distribution alignment via adversarial learning for domain adaptive object detection. **B Zhang**, T Chen, B Wang, R Li. <u>Published in TMM.</u> [[arXiv](https://arxiv.org/abs/2109.09033), [Code](https://github.com/BOBrown/JADF-caffe), CCF A, Accept without any changes during the first round]
+- Joint distribution alignment via adversarial learning for domain adaptive object detection. **B Zhang**, T Chen, B Wang, R Li. <u>Published in TMM.</u> [[arXiv](https://arxiv.org/abs/2109.09033), [Code](https://github.com/BOBrown/JADF-caffe), Tsinghua A / CAAI A, Accept without any changes during the first round]
 
 
 # Ph.D Thesis
