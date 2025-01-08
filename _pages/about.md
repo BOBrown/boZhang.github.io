@@ -138,6 +138,20 @@ Hancheng Ye, Chong Yu, Peng Ye, Renqiu Xia, Yansong Tang, Jiwen Lu, Tao Chen, **
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/moe_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models]https://arxiv.org/abs/2402.14800)
+
+Xudong Lu, Qi Liu, Yuhui Xu, Aojun Zhou, Siyuan Huang, **<u>Bo Zhang</u>**, Junchi Yan, Hongsheng Li
+
+[[**Project**]](https://github.com/Lucky-Lance/Expert_Sparsity)[[**Paper**]](https://arxiv.org/abs/2402.14800)
+- Different from previous weight pruning methods that rely on specifically designed hardware, this paper mainly aims to enhance the deployment efficiency of MoE LLMs by introducing plug-and-play expert-level sparsification techniques.
+- We present to post-training approaches for task-agnostic and task-specific expert pruning and skipping of MoE LLM.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/resimad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
