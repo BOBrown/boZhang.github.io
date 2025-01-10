@@ -290,7 +290,7 @@ Hancheng Ye, **<u>Bo Zhang</u>**, Tao Chen, Jiayuan Fan, Bin Wang
 
 - <a href="https://github.com/Alpha-Innovator">Alpha-Innovator</a>
 - <a href="https://thinklab.sjtu.edu.cn/">ReThinkLab</a>
-- <a href="http://leibai.site/">Lei Bai</a>
+<!-- - <a href="http://leibai.site/">Lei Bai</a>
 - <a href="https://gaopengcuhk.github.io/">Peng Gao</a>
 - <a href="https://www.rjchen.site/">Runjian Chen</a>
-- <a href="https://xyue.io/">Xiangyu Yue</a>
+- <a href="https://xyue.io/">Xiangyu Yue</a> -->
