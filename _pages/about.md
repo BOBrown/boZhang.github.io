@@ -32,6 +32,8 @@ He has published <b>30+ papers</b> in top-tier international conferences and jou
 <div style='margin-top: 30pt'></div>
 
 # 🔥 News
+**2025:**
+  - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🔥🔥 We propose a closed-loop open-ended auto-research framework named Dolphin, aiming to simulate and further extend the entire process of human scientific research. For more video demonstrations, please visit the project homepage: <a href="https://alpha-innovator.github.io/Dolphin-project-page/">Project Homepage</a></p>
 **2024:**
   - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 Our research project, <a href="https://www.arxiv.org/abs/2412.11863/">GeoX</a>, has been officially open-sourced today. It is the first to explore formalized visual-language pre-training in enhancing geometric problem-solving abilities.</p>
   - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 Grateful for the heartfelt recognition and thoughtful sharing of my research work <a href="https://www.sohu.com/a/814145951_121124291/">Fudan_CYL</a> and <a href="https://mp.weixin.qq.com/s/KVAI0Q7spu6yot-6oQOewQ">Fudan_SIST</a> .</p>
@@ -141,7 +143,7 @@ Hancheng Ye, Chong Yu, Peng Ye, Renqiu Xia, Yansong Tang, Jiwen Lu, Tao Chen, **
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/moe_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models]https://arxiv.org/abs/2402.14800)
+[Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models](https://arxiv.org/abs/2402.14800)
 
 Xudong Lu, Qi Liu, Yuhui Xu, Aojun Zhou, Siyuan Huang, **<u>Bo Zhang</u>**, Junchi Yan, Hongsheng Li
 
@@ -286,6 +288,7 @@ Hancheng Ye, **<u>Bo Zhang</u>**, Tao Chen, Jiayuan Fan, Bin Wang
 
 # 📝 Collaborators
 
+- <a href="https://github.com/Alpha-Innovator">Alpha-Innovator</a>
 - <a href="https://thinklab.sjtu.edu.cn/">ReThinkLab</a>
 - <a href="http://leibai.site/">Lei Bai</a>
 - <a href="https://gaopengcuhk.github.io/">Peng Gao</a>
