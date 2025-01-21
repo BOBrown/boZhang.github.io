@@ -33,7 +33,7 @@ He has published <b>30+ papers</b> in top-tier international conferences and jou
 
 # 🔥 News
 **2025:**
-  - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🔥🔥🎉🎉 We propose a closed-loop open-ended auto-research framework named Dolphin, aiming to simulate and further extend the entire process of human scientific research. For more video demonstrations, please visit the project homepage: <a href="https://alpha-innovator.github.io/Dolphin-project-page/">Project Homepage</a></p>
+  - <p style='text-align:justify'><i>2025.01</i>: &nbsp;🔥🔥🎉🎉 We propose a closed-loop open-ended auto-research framework named Dolphin, aiming to simulate and further extend the entire process of human scientific research. For more video demonstrations, please visit the project homepage: <a href="https://alpha-innovator.github.io/Dolphin-project-page/">Project Homepage</a></p>
 
 **2024:**
   - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 Our research project, <a href="https://www.arxiv.org/abs/2412.11863/">GeoX</a>, has been officially open-sourced today. It is the first to explore formalized visual-language pre-training in enhancing geometric problem-solving abilities.</p>
