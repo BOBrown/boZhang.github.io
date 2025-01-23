@@ -68,6 +68,33 @@ He has published <b>30+ papers</b> in top-tier international conferences and jou
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/geox.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training](https://arxiv.org/abs/2412.11863)
+
+Renqiu Xia, Mingsheng Li, Hancheng Ye, Wenjie Wu, Hongbin Zhou, Jiakang Yuan, Tianshuo Peng, Xinyu Cai, Xiangchao Yan, Bin Wang, Conghui He, Botian Shi, Tao Chen, Junchi Yan, **<u>Bo Zhang^(corr.)</u>**
+
+[[**Project**]](https://github.com/Alpha-Innovator/GeoX)[[**Paper**]](https://arxiv.org/abs/2412.11863)
+- Our study reveals the large potential of formalized visual-language pre-training in enhancing geometric problem-solving abilities. To enable the formalized pre-training, we propose GeoX, aiming to build geometric generalist models by modeling geometric tasks into a unified formulation.
+- We propose a Generator-And-Sampler Transformer (GS-Former) to generate discriminative queries and eliminate uninformative representations from unevenly distributed geometric signals. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/adaptivediffusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text](https://arxiv.org/abs/2406.08418)
+
+Qingyun Li, Zhe Chen, Weiyun Wang, Wenhai Wang, Shenglong Ye, Zhenjiang Jin, Guanzhou Chen, Yinan He, Zhangwei Gao, Erfei Cui, Jiashuo Yu, Hao Tian, Jiasheng Zhou, Chao Xu, Bin Wang, Xingjian Wei, Wei Li, Wenjian Zhang, **<u>Bo Zhang</u>**, Pinlong Cai, Licheng Wen, Xiangchao Yan, Zhenxiang Li, Pei Chu, Yi Wang, Min Dou, Changyao Tian, Xizhou Zhu, Lewei Lu, Yushi Chen, Junjun He, Zhongying Tu, Tong Lu, Yali Wang, Limin Wang, Dahua Lin, Yu Qiao, Botian Shi, Conghui He, Jifeng Dai
+
+[[**Project**]](https://github.com/OpenGVLab/OmniCorpus)[[**Paper**]](https://arxiv.org/abs/2406.08418)
+- We filter and extract large-scale high-quality documents, which contain 8.6 billion images and 1,696 billion tet tokens.
+- Our dataset is 15 times larger with high quality, features diverse sources (including English, non-English, and video-centric websites), and offers flexibility to adapt from an image-text interleaved format to pure text or image-text pairs. 
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIS</div><img src='images/internvl-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
