@@ -33,6 +33,7 @@ He has published <b>30+ papers</b> in top-tier international conferences and jou
 
 # 🔥 News
 **2025:**
+  - <p style='text-align:justify'><i>2025.01</i>: &nbsp; One paper is accepted for publication in <font color="red">T-PAMI</font>.</p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp; 🎉🎉 Two papers accepted to <font color="red">ICLR 2025</font>: <a href="https://arxiv.org/abs/2412.11863">GeoX</a>, <a href="https://arxiv.org/abs/2406.08418">OmniCorpus</a></p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp;🔥🔥🎉🎉 We propose a closed-loop open-ended auto-research framework named Dolphin, aiming to simulate and further extend the entire process of human scientific research. For more video demonstrations, please visit the project homepage: <a href="https://alpha-innovator.github.io/Dolphin-project-page/">Project Homepage</a></p>
 
