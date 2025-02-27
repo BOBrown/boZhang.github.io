@@ -33,6 +33,7 @@ He has published 30+ papers in top-tier international conferences and journals s
 
 # 🔥 News
 **2025:**
+  - <p style='text-align:justify'><i>2025.02</i>: &nbsp; <b>Three papers</b> are accepted by <font color="red">CVPR-2025</font>: JiSAM, OmniDocBench, CDM.</p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp; One of our papers has been accepted for publication in <font color="red">TPAMI</font>, another has been accepted by <font color="red">TGRS</font>.</p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp; 🎉🎉 Two papers accepted to <font color="red">ICLR 2025</font>: <a href="https://arxiv.org/abs/2412.11863">GeoX</a>, <a href="https://arxiv.org/abs/2406.08418">OmniCorpus</a></p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp;🔥🔥🎉🎉 We propose a closed-loop open-ended auto-research framework named Dolphin, aiming to simulate and further extend the entire process of human scientific research. For more video demonstrations, please visit the project homepage: <a href="https://alpha-innovator.github.io/Dolphin-project-page/">Project Homepage</a></p>
@@ -49,7 +50,7 @@ He has published 30+ papers in top-tier international conferences and journals s
   - <p style='text-align:justify'><i>2024.07</i>: &nbsp; One paper (Reg-TTA3D) is accepted by <font color="red">ECCV 2024</font>. We explore test-time adaptive 3d object detection for the first time.</p>
   - <p style='text-align:justify'><i>2024.05</i>: &nbsp;🎉🎉 Our paper entitled "Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm"  is accepted for publication in <font color="red">ICML 2024</font>.</p>
   - <p style='text-align:justify'><i>2024.03</i>: &nbsp; One paper is accepted by <font color="red">ACL 2024</font>. We propose All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models.</p>
-  - <p style='text-align:justify'><i>2024.02</i>: &nbsp; One paper (Once for Both) is accepted by <font color="red">CVPR 2024</font>. Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression.</p>
+  - <p style='text-align:justify'><i>2024.02</i>: &nbsp; One paper (Once for Both) is accepted by <font color="red">CVPR-2024</font>. Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression.</p>
   - <p style='text-align:justify'><i>2024.01</i>: &nbsp; One paper (ReSimAD) is accepted by <font color="red">ICLR 2024</font>. We propose a zero-shot generalization framework by reconstructing mesh and simulating target point clouds.</p>
   - <p style='text-align:justify'><i>2024.01</i>: &nbsp; Two papers (<a href="https://ieeexplore.ieee.org/abstract/document/10516600/">IPNet</a> and <a href="https://ieeexplore.ieee.org/abstract/document/10360874/">MVNet</a>) are accepted by <font color="red">TCSVT</font>. </p>
 
