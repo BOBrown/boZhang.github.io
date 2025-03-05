@@ -32,7 +32,7 @@ He has published 30+ papers in top-tier international conferences and journals s
 <div style='margin-top: 30pt'></div>
 
 # 🔥 Highlighted Projects
-- <b>Dolphin</b>. (<font color="red">Auto-research framework</font> that achieves closed-loop LLM-driven framework to enhance the automation level of scientific research.) 
+- 🐬 <b>Dolphin</b>. (<font color="red">Auto-research framework</font> that achieves closed-loop LLM-driven framework to enhance the automation level of scientific research.) 
 [[**Project**]](https://alpha-innovator.github.io/Dolphin-project-page)[[**Technical report**]](https://arxiv.org/abs/2501.03916)
 
 - <b>MinerU</b> and <b>PDF-Extract-Kit</b>. (<font color="red">A popular open-source tool</font>, converting PDFs into machine-readable formats (e.g., markdown, JSON), allowing for easy extraction into any format.) 
@@ -44,7 +44,7 @@ He has published 30+ papers in top-tier international conferences and journals s
 - <b>3DTrans</b>. (An Open-source Codebase for Continuous Learning towards Autonomous Driving Task, including Unsupervised Domain Adaptation (UDA), Active Domain Adaptation (ADA), Semi-Supervised Domain Adaptation (SSDA), and Multi-dateset Domain Fusion (MDF) tasks.) 
 [[**Project**]](https://github.com/PJLab-ADG/3DTrans)[[**Technical report**]](https://arxiv.org/abs/2303.06880)
 
-# 🔥 News
+# 🌎 News
 **2025:**
   - <p style='text-align:justify'><i>2025.02</i>: &nbsp; Three papers are accepted by <font color="red">CVPR-2025</font>: JiSAM, OmniDocBench, CDM.</p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp; One of our papers has been accepted for publication in <font color="red">TPAMI</font>, another has been accepted by <font color="red">TGRS</font>.</p>
