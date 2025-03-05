@@ -32,21 +32,21 @@ He has published 30+ papers in top-tier international conferences and journals s
 <div style='margin-top: 30pt'></div>
 
 # 🔥 Highlighted Projects
-- Dolphin. (<font color="red">Auto-research framework</font> that achieves closed-loop LLM-driven framework to enhance the automation level of scientific research.) 
+- <b>Dolphin</b>. (<font color="red">Auto-research framework</font> that achieves closed-loop LLM-driven framework to enhance the automation level of scientific research.) 
 [[**Project**]](https://alpha-innovator.github.io/Dolphin-project-page)[[**Technical report**]](https://arxiv.org/abs/2501.03916)
 
-- MinerU and PDF-Extract-Kit. (<font color="red">A popular open-source tool</font>, converting PDFs into machine-readable formats (e.g., markdown, JSON), allowing for easy extraction into any format.) 
+- <b>MinerU</b> and <b>PDF-Extract-Kit</b>. (<font color="red">A popular open-source tool</font>, converting PDFs into machine-readable formats (e.g., markdown, JSON), allowing for easy extraction into any format.) 
 [[**Project**]](https://github.com/opendatalab/PDF-Extract-Kit)[[**Technical report**]](https://arxiv.org/abs/2409.18839)
 
-- InternVL 1.5 and InternVL 2. (<font color="red">Rank 1st</font> among open-source VLM models on MMMU, DocVQA, ChartQA, and MathVista.) 
+- <b>InternVL 1.5</b> and <b>InternVL 2</b>. (<font color="red">Rank 1st</font> among open-source VLM models on MMMU, DocVQA, ChartQA, and MathVista.) 
 [[**Project**]](https://github.com/OpenGVLab/InternVL)[[**Technical report**]](https://arxiv.org/abs/2404.16821)
 
-- 3DTrans. (An Open-source Codebase for Continuous Learning towards Autonomous Driving Task, including Unsupervised Domain Adaptation (UDA), Active Domain Adaptation (ADA), Semi-Supervised Domain Adaptation (SSDA), and Multi-dateset Domain Fusion (MDF) tasks.) 
+- <b>3DTrans</b>. (An Open-source Codebase for Continuous Learning towards Autonomous Driving Task, including Unsupervised Domain Adaptation (UDA), Active Domain Adaptation (ADA), Semi-Supervised Domain Adaptation (SSDA), and Multi-dateset Domain Fusion (MDF) tasks.) 
 [[**Project**]](https://github.com/PJLab-ADG/3DTrans)[[**Technical report**]](https://arxiv.org/abs/2303.06880)
 
 # 🔥 News
 **2025:**
-  - <p style='text-align:justify'><i>2025.02</i>: &nbsp; <b>Three papers</b> are accepted by <font color="red">CVPR-2025</font>: JiSAM, OmniDocBench, CDM.</p>
+  - <p style='text-align:justify'><i>2025.02</i>: &nbsp; Three papers are accepted by <font color="red">CVPR-2025</font>: JiSAM, OmniDocBench, CDM.</p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp; One of our papers has been accepted for publication in <font color="red">TPAMI</font>, another has been accepted by <font color="red">TGRS</font>.</p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp; 🎉🎉 Two papers accepted to <font color="red">ICLR 2025</font>: <a href="https://arxiv.org/abs/2412.11863">GeoX</a>, <a href="https://arxiv.org/abs/2406.08418">OmniCorpus</a></p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp;🔥🔥🎉🎉 We propose a closed-loop open-ended auto-research framework named Dolphin, aiming to simulate and further extend the entire process of human scientific research. For more video demonstrations, please visit the project homepage: <a href="https://alpha-innovator.github.io/Dolphin-project-page/">Project Homepage</a></p>
