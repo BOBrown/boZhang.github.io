@@ -31,9 +31,9 @@ He has published 30+ papers in top-tier international conferences and journals s
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-  🚀 Join Shanghai AI Lab's Elite Team!
+  🚀 Join Shanghai AI Lab's Elite Team! <br>
   We're recruiting PhDs (2025 intake) & Researcher (March/June 2025 start) to pioneer LLM, Multi-Agent Optimization, and AutoGPT innovations.
-
+  <br>
   👉 Contact now with your CV + research vision: zhangbo@pjlab.org.cn & bo.zhangzx@gmail.com
   </div>
 </div>
