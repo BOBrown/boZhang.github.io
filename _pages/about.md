@@ -341,7 +341,8 @@ Hancheng Ye, **<u>Bo Zhang</u>**, Tao Chen, Jiayuan Fan, Bin Wang
 # 🎓 Ph.D Thesis
 
 During his Ph.D. studies, Bo Zhang dedicated himself to advancing domain-adaptive models including 2D/3D domains. With a strong foundation in both theoretical research and practical applications, he has gained extensive expertise in model adaptation and continuous learning.
-[Ph.D Thesis](https://drive.google.com/file/d/1CceNJTwc_QN6B3aE1rIscS65f4dYQdwF/view?usp=share_link)
+
+[[**Ph.D Thesis**]](https://drive.google.com/file/d/1CceNJTwc_QN6B3aE1rIscS65f4dYQdwF/view?usp=share_link)
 
 <div style='margin-top: 30pt'></div>
 
