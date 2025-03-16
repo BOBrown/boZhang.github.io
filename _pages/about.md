@@ -50,7 +50,7 @@ He has published 30+ papers in top-tier international conferences and journals s
 - <b>InternVL 1.5</b> and <b>InternVL 2</b>. (<font color="red">Rank 1st</font> among open-source VLM models on MMMU, DocVQA, ChartQA, and MathVista.) 
 [[**Project**]](https://github.com/OpenGVLab/InternVL)[[**Technical report**]](https://arxiv.org/abs/2404.16821)
 
-- <b>3DTrans</b>. (An Open-source Codebase for Continuous Learning towards Autonomous Driving Task, including Unsupervised Domain Adaptation (UDA), Active Domain Adaptation (ADA), Semi-Supervised Domain Adaptation (SSDA), and Multi-dateset Domain Fusion (MDF) tasks.) 
+- <b>3DTrans (Work during the PhD period)</b>. (An Open-source Codebase for Continuous Learning towards Autonomous Driving Task, including Unsupervised Domain Adaptation (UDA), Active Domain Adaptation (ADA), Semi-Supervised Domain Adaptation (SSDA), and Multi-dateset Domain Fusion (MDF) tasks.) 
 [[**Project**]](https://github.com/PJLab-ADG/3DTrans)[[**Technical report**]](https://arxiv.org/abs/2303.06880)
 
 # 🌎 News
@@ -337,6 +337,11 @@ Hancheng Ye, **<u>Bo Zhang</u>**, Tao Chen, Jiayuan Fan, Bin Wang
 # 💻 Internships
 
 - *2021.12 - 2022.06*, [Shanghai AI Laboratory](), China.
+
+# 🎓 Ph.D Thesis
+
+During his Ph.D. studies, Bo Zhang dedicated himself to advancing domain-adaptive models including 2D/3D domains. With a strong foundation in both theoretical research and practical applications, he has gained extensive expertise in model adaptation and continuous learning.
+[Ph.D Thesis](https://drive.google.com/file/d/1CceNJTwc_QN6B3aE1rIscS65f4dYQdwF/view?usp=share_link)
 
 <div style='margin-top: 30pt'></div>
 
