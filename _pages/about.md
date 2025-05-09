@@ -169,7 +169,7 @@ Tao Ma, Hongbin Zhou, Qiusheng Huang, Xuemeng Yang, Jianfei Guo, **<u>Bo Zhang</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/leapad.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/leapad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving](https://arxiv.org/abs/2405.15324)
@@ -179,7 +179,7 @@ Jianbiao Mei, Yukai Ma, Xuemeng Yang, Licheng Wen, Xinyu Cai, Xin Li, Daocheng F
 [[**Project**]](https://leapad-2024.github.io/LeapAD/)[[**Paper**]](https://arxiv.org/abs/2405.15324)
 - LeapAD incorporates an innovative dual-process decision-making module, which consists of an Analytic Process (System-II) for thorough analysis and reasoning, along with a Heuristic Process (System-I) for swift and empirical processing.
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ctl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
