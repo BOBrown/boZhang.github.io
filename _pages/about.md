@@ -157,7 +157,7 @@ Hancheng Ye, Jiakang Yuan, Renqiu Xia, Xiangchao Yan, Tao Chen, Junchi Yan, Boti
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/zopp.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/zopp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ZOPP: A Framework of Zero-shot Offboard Panoptic Perception for Autonomous Driving](https://arxiv.org/abs/2411.05311)
@@ -167,7 +167,7 @@ Tao Ma, Hongbin Zhou, Qiusheng Huang, Xuemeng Yang, Jianfei Guo, **<u>Bo Zhang</
 [[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2411.05311)
 - ZOPP integrates the powerful zero-shot recognition capabilities of vision foundation models and 3D representations derived from point clouds.
 </div>
-</div>
+</div> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/leapad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
