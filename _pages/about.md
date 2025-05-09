@@ -92,7 +92,21 @@ He has published 30+ papers in top-tier international conferences and journals s
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/geox.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/MME-CoT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency](https://arxiv.org/abs/2502.09621)
+
+Dongzhi Jiang, Renrui Zhang, Ziyu Guo, Yanwei Li, Yu Qi, Xinyan Chen, Liuhui Wang, Jianhan Jin, Claire Guo, Shen Yan, **<u>Bo Zhang</u>**, Chaoyou Fu, Peng Gao, Hongsheng Li
+
+
+[[**Project**]](https://mmecot.github.io/)[[**Paper**]](https://arxiv.org/pdf/2502.09621)
+- We introduce MME-CoT, a specialized benchmark evaluating the CoT reasoning performance of LMMs
+- MME-CoT covers six domains: math science, OCR, logic, space-time, and general scenes. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/MME-CoT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training](https://arxiv.org/abs/2412.11863)
