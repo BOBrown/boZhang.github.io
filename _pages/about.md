@@ -19,20 +19,20 @@ redirect_from:
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-Bo Zhang received the Ph.D. degree in electronic engineering from the School of Information Science and Technology, Fudan University. He is currently a Research Scientist in Shanghai AI Laboratory. His work has led to many awards, including Shanghai Rising Star under Grant No. 23QD1401000, awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security recognition, domain adaptive face recognition, and localization of concealed dangerous objects. 
+Bo Zhang received the Ph.D. degree in electronic engineering from the School of Information Science and Technology, Fudan University. He is currently a Research Scientist in Shanghai AI Laboratory. His work has led to many awards, including Shanghai Rising Star under Grant No. 23QD1401000, awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2020/2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security recognition, domain adaptive face recognition, and localization of concealed dangerous objects. 
   </div>
 </div>
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-He has published 30+ papers in top-tier international conferences and journals such as CVPR, NeurIPS, ICLR, ICML, ACL, T-PAMI, TIP, T-MM, and IJCV. He also serves as a reviewer for several prestigious academic conferences and journals, including CVPR, ECCV, ICCV, ICLR, and ICML. He led the development of the 3DTrans general scene representation open-source project, which won the Waymo Challenge international competition and accumulated over 1.5k stars. Furthermore, he is committed to exploring the fundamental nature of long-chain reasoning in large models and aims to develop innovator-level agents through reinforcement learning methods and reflection mechanism.
+He has published 30+ papers in top-tier international conferences and journals such as CVPR, NeurIPS, ICLR, ICML, ACL, T-PAMI, TIP, TGRS, and IJCV. He also serves as a reviewer for several prestigious academic conferences and journals, including CVPR, ECCV, ICCV, ICLR, ICML, etc. He led the development of the 3DTrans general scene representation open-source project, which won the Waymo Challenge international competition and accumulated over 3k stars. Furthermore, he is committed to exploring the fundamental nature of long-chain reasoning in large models and aims to develop innovator-level agents through reinforcement learning methods and reflection mechanism.
   </div>
 </div>
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
   🚀 Join Shanghai AI Lab's Elite Team! <br>
-  We're recruiting PhDs (2025 intake) & Researcher (March/June 2025 start) to pioneer LLM, Multi-Agent Optimization, and AutoGPT innovations.
+  We're recruiting PhDs (2025/2026 intake) & Researcher (March/June 2025/2026 start) to pioneer LLM, Multi-Agent Optimization, and AutoGPT innovations.
   <br>
   👉 Contact now with your CV + research vision: zhangbo@pjlab.org.cn & bo.zhangzx@gmail.com
   </div>
@@ -55,6 +55,8 @@ He has published 30+ papers in top-tier international conferences and journals s
 
 # 🌎 News
 **2025:**
+  - <p style='text-align:justify'><i>2025.05</i>: &nbsp;  <a href="https://arxiv.org/abs/2503.04629">SurveyForge</a> and <a href="https://arxiv.org/abs/2501.03916">Dolphin</a> are accepted by <font color="red">ACL-2025</font>.</p>
+  - <p style='text-align:justify'><i>2025.05</i>: &nbsp;  <a href="https://arxiv.org/abs/2502.09621">MME-CoT</a> is accepted by <font color="red">ICML-2025</font>.</p>
   - <p style='text-align:justify'><i>2025.02</i>: &nbsp; Three papers are accepted by <font color="red">CVPR-2025</font>: JiSAM, OmniDocBench, CDM.</p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp; One of our papers has been accepted for publication in <font color="red">TPAMI</font>, another has been accepted by <font color="red">TGRS</font>.</p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp; 🎉🎉 Two papers accepted to <font color="red">ICLR 2025</font>: <a href="https://arxiv.org/abs/2412.11863">GeoX</a>, <a href="https://arxiv.org/abs/2406.08418">OmniCorpus</a></p>
@@ -65,15 +67,15 @@ He has published 30+ papers in top-tier international conferences and journals s
   - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 <font color="red">Grateful for the heartfelt recognition and thoughtful sharing of my research work</font> <a href="https://www.sohu.com/a/814145951_121124291/">Fudan_CYL</a> and <a href="https://mp.weixin.qq.com/s/KVAI0Q7spu6yot-6oQOewQ">Fudan_SIST</a> .</p>
   - <p style='text-align:justify'><i>2024.10</i>: &nbsp; The technical report for <a href="https://arxiv.org/abs/2409.18839/"><font color="red">MinerU</font></a>, an open-source solution for high-precision document content extraction, has been published. </p>
   - <p style='text-align:justify'><i>2024.09</i>: &nbsp;🎉🎉 Three papers accepted to <font color="red">NeurIPS 2024</font>: <a href="https://arxiv.org/abs/2410.09873/">AdaptiveDiffusion</a>, <a href="https://arxiv.org/abs/2411.05311/">ZOPP</a>, <a href="https://arxiv.org/abs/2405.15324/">LeapAD</a> </p>
-  - <p style='text-align:justify'><i>2024.09</i>: &nbsp; Previous evaluation metrics for Formula and Table Recognition tasks, such as BLEU and Edit Distrance, exhibit limitations. <a href="https://github.com/opendatalab/UniMERNet/tree/main/cdm/">Our CDM</a> has been released to ensure the evaluation objectivity by designing an image-level rather than LaTex-level metric score for Formula and Table Recognition evaluation.</p>
+  <!-- - <p style='text-align:justify'><i>2024.09</i>: &nbsp; Previous evaluation metrics for Formula and Table Recognition tasks, such as BLEU and Edit Distrance, exhibit limitations. <a href="https://github.com/opendatalab/UniMERNet/tree/main/cdm/">Our CDM</a> has been released to ensure the evaluation objectivity by designing an image-level rather than LaTex-level metric score for Formula and Table Recognition evaluation.</p> -->
   - <p style='text-align:justify'><i>2024.08</i>: &nbsp;🎉🎉 Bo Zhang was invited to serve as a PC member of <font color="red">AAAI 2025</font>.</p>
   - <p style='text-align:justify'><i>2024.08</i>: &nbsp; We open-sourced StructTable: Table Structural Extraction Model <a href="https://huggingface.co/U4R/StructTable-base/">Models</a> and <a href="https://github.com/UniModal4Reasoning/StructEqTable-Deploy/">StructEqTable-Deploy</a>. It is a open-source repository to support the structuring tasks of visual tables.</p>
   - <p style='text-align:justify'><i>2024.08</i>: &nbsp;🎉🎉 We collaborated with the OpenDataLab team to open-source the <font color="red">PDF-Extract-Kit</font>. It can extract high-quality and structured content from PDFs and has gained <b>6K+</b> stars.</p>
   - <p style='text-align:justify'><i>2024.07</i>: &nbsp; One paper (Reg-TTA3D) is accepted by <font color="red">ECCV 2024</font>. We explore test-time adaptive 3d object detection for the first time.</p>
   - <p style='text-align:justify'><i>2024.05</i>: &nbsp;🎉🎉 Our paper entitled "Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm"  is accepted for publication in <font color="red">ICML 2024</font>.</p>
-  - <p style='text-align:justify'><i>2024.05</i>: &nbsp; One paper is accepted by <font color="red">ACL 2024</font>. We propose All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models.</p>
+  - <p style='text-align:justify'><i>2024.05</i>: &nbsp; One paper (<a href="https://arxiv.org/abs/2402.14800">Expert Pruning-Skipping</a>) is accepted by <font color="red">ACL 2024</font>. We propose All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models.</p>
   - <p style='text-align:justify'><i>2024.02</i>: &nbsp; One paper (Once for Both) is accepted by <font color="red">CVPR-2024</font>. Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression.</p>
-  - <p style='text-align:justify'><i>2024.01</i>: &nbsp; One paper (ReSimAD) is accepted by <font color="red">ICLR 2024</font>. We propose a zero-shot generalization framework by reconstructing mesh and simulating target point clouds.</p>
+  - <p style='text-align:justify'><i>2024.01</i>: &nbsp; One paper (<a href="https://arxiv.org/abs/2309.05527">ReSimAD</a>) is accepted by <font color="red">ICLR 2024</font>. We propose a zero-shot generalization framework by reconstructing mesh and simulating target point clouds.</p>
   - <p style='text-align:justify'><i>2024.01</i>: &nbsp; Two papers (<a href="https://ieeexplore.ieee.org/abstract/document/10516600/">IPNet</a> and <a href="https://ieeexplore.ieee.org/abstract/document/10360874/">MVNet</a>) are accepted by <font color="red">TCSVT</font>. </p>
 
 **2023:**
@@ -82,7 +84,7 @@ He has published 30+ papers in top-tier international conferences and journals s
   - <p style='text-align:justify'><i>2023.09</i>: &nbsp; SPOT, showing a promising and <b>scalable</b> 3D pre-training on autonomous driving, has been released (See our paper for more details, <a href="https://arxiv.org/abs/2309.10527">arXiv paper</a>).</p>
   - <p style='text-align:justify'><i>2023.09</i>: &nbsp;🎉🎉 - One paper entitled “AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset” is accepted by <font color="red">NeurIPS-2023</font>.</p>
   - <p style='text-align:justify'><i>2023.07</i>: &nbsp; One paper about cross-domain background-fouced alignment "Rethinking Cross-Domain Pedestrian Detection: A Background-Focused Distribution Alignment Framework for Instance-Free One-Stage Detectors" is accepted by <font color="red">TIP</font>.</p>
-  - <p style='text-align:justify'><i>2023.07</i>: &nbsp; One paper entitled "SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification" is accepted by <font color="red">ACM MM-2023</font>.</p>
+  <!-- - <p style='text-align:justify'><i>2023.07</i>: &nbsp; One paper entitled "SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification" is accepted by <font color="red">ACM MM-2023</font>.</p> -->
   - <p style='text-align:justify'><i>2023.04</i>: &nbsp; One paper entitled "Performance-aware Approximation of Global Channel Pruning for Multitask CNNs" is accepted for publication in <font color="red">T-PAMI</font>.</p>
   - <p style='text-align:justify'><i>2023.03</i>: &nbsp;🎉🎉 <b>Three papers</b> are accepted by <font color="red">CVPR-2023</font>: Uni3D, Bi3D, GDP.</p>
   - <p style='text-align:justify'><i>2023.02</i>: &nbsp; Bo Zhang started to work on exploring how to improve the problem-solving and reasoning ability of LLMs or VLMs for complicated modalities, including <b>Chart, Table, Geometry, Scientific Document</b>, by investigating foundation LLM models from the perspective of structured knowledge-rich data.</p>
@@ -92,14 +94,36 @@ He has published 30+ papers in top-tier international conferences and journals s
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/surveyforge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing](https://arxiv.org/abs/2503.04629)
+
+Xiangchao Yan, Shiyang Feng, Jiakang Yuan, Renqiu Xia, Bin Wang, Lei Bai, **<u>Bo Zhang^(corr.)</u>**
+[[**Project**]](https://github.com/Alpha-Innovator/SurveyForge)[[**Benchmark**]](https://huggingface.co/datasets/U4R/SurveyBench)[[**Paper**]](https://arxiv.org/abs/2503.04629)
+- We propose SurveyForge, a novel automated framework for generating high-quality academic survey papers
+- We propose a heuristic outline generation method and a memory-driven scholar navigation agent
+- To facilitate objective evaluation, we establish SurveyBench, to assess outline, reference, and content quality 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/dolphin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback](https://arxiv.org/abs/2501.03916)
+
+Jiakang Yuan, Xiangchao Yan, Shiyang Feng, **<u>Bo Zhang^(corr.)</u>**, Tao Chen, Botian Shi, Wanli Ouyang, Yu Qiao, Lei Bai, Bowen Zhou
+[[**Project**]](https://alpha-innovator.github.io/Dolphin-project-page)[[**Paper**]](https://arxiv.org/abs/2501.03916)
+- we propose task-attribute-guided paper ranking and exception-traceback-guided debugging process to improve the quality of generated ideas and the successful rate of code execution.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/MME-CoT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency](https://arxiv.org/abs/2502.09621)
 
 Dongzhi Jiang, Renrui Zhang, Ziyu Guo, Yanwei Li, Yu Qi, Xinyan Chen, Liuhui Wang, Jianhan Jin, Claire Guo, Shen Yan, **<u>Bo Zhang</u>**, Chaoyou Fu, Peng Gao, Hongsheng Li
-
-
 [[**Project**]](https://mmecot.github.io/)[[**Paper**]](https://arxiv.org/pdf/2502.09621)
 - We introduce MME-CoT, a specialized benchmark evaluating the CoT reasoning performance of LMMs
 - MME-CoT covers six domains: math science, OCR, logic, space-time, and general scenes. 
@@ -270,7 +294,7 @@ Jiakang Yuan, **<u>Bo Zhang^(corr.)</u>**, Xiangchao Yan, Tao Chen, Botian Shi, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/regtta3d.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/regtta3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reg-TTA3D: Better Regression Makes Better Test-time Adaptive 3D Object Detection](https://link.springer.com/chapter/10.1007/978-3-031-72775-7_12)
@@ -280,7 +304,7 @@ Jiakang Yuan, **<u>Bo Zhang</u>**, Kaixiong Gong, Xiangyu Yue, Botian Shi, Yu Qi
 [[**Project**]]()[[**Paper**]](https://link.springer.com/chapter/10.1007/978-3-031-72775-7_12)
 - Explore a new task named test-time domain adaptive 3D object detection and propose a pseudo-label-based test-time adaptative 3D object detection method.
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM'MM 2023</div><img src='images/sug.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -350,7 +374,7 @@ Hancheng Ye, **<u>Bo Zhang</u>**, Tao Chen, Jiayuan Fan, Bin Wang
 
 # 💻 Internships
 
-- *2021.12 - 2022.06*, [Shanghai AI Laboratory](), China.
+- *2021.12 - 2022.06*, [Shanghai AI Laboratory](https://www.shlab.org.cn), China.
 
 # 🎓 Ph.D Thesis
 
