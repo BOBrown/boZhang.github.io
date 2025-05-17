@@ -25,7 +25,7 @@ Bo Zhang received the Ph.D. degree in electronic engineering from the School of 
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-He has published 30+ papers in top-tier international conferences and journals such as CVPR, NeurIPS, ICLR, ICML, ACL, T-PAMI, TIP, TGRS, and IJCV. He also serves as a reviewer for several prestigious academic conferences and journals, including CVPR, ECCV, ICCV, ICLR, ICML, etc. He led the development of the 3DTrans general scene representation open-source project, which won the Waymo Challenge international competition and accumulated over 3k stars. Furthermore, he is committed to exploring the fundamental nature of long-chain reasoning in large models and aims to develop innovator-level agents through reinforcement learning methods and reflection mechanism.
+He has published 30+ papers in top-tier international conferences and journals such as CVPR, NeurIPS, ICLR, ICML, ACL, T-PAMI, TIP, TGRS, and IJCV. He also serves as a reviewer for several prestigious academic conferences and journals, including CVPR, ECCV, ICCV, NeurIPS, ICLR, ICML, ACL etc. He led the development of the 3DTrans general scene representation open-source project, which won the Waymo Challenge international competition and accumulated over 3k stars. Furthermore, he is committed to exploring the fundamental nature of long-chain reasoning in large models and aims to develop innovator-level agents through reinforcement learning methods and reflection mechanism.
   </div>
 </div>
 
