@@ -55,12 +55,13 @@ He has published 30+ papers in top-tier international conferences and journals s
 
 # 🌎 News
 **2025:**
-  - <p style='text-align:justify'><i>2025.05</i>: &nbsp;  <a href="https://arxiv.org/abs/2503.04629">SurveyForge</a> and <a href="https://arxiv.org/abs/2501.03916">Dolphin</a> are accepted by <font color="red">ACL-2025</font>.</p>
+  - <p style='text-align:justify'><i>2025.05</i>: &nbsp; 🔥🔥🎉🎉  When Agent Becomes the Scientist: Your ultimate AI-powered Scientist for finding, analyzing, and experimentation like never before! <a href="https://alpha-innovator.github.io/NovelSeek-project-page">NovelSeek Page</a></p> 
+  - <p style='text-align:justify'><i>2025.05</i>: &nbsp; 🎉🎉 <a href="https://arxiv.org/abs/2503.04629">SurveyForge</a> and <a href="https://arxiv.org/abs/2501.03916">Dolphin</a> are accepted by <font color="red">ACL-2025</font>.</p>
   - <p style='text-align:justify'><i>2025.05</i>: &nbsp;  <a href="https://arxiv.org/abs/2502.09621">MME-CoT</a> is accepted by <font color="red">ICML-2025</font>.</p>
-  - <p style='text-align:justify'><i>2025.02</i>: &nbsp; Three papers are accepted by <font color="red">CVPR-2025</font>: JiSAM, OmniDocBench, CDM.</p>
+  - <p style='text-align:justify'><i>2025.02</i>: &nbsp; 🎉🎉 Three papers are accepted by <font color="red">CVPR-2025</font>: JiSAM, OmniDocBench, CDM.</p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp; One of our papers has been accepted for publication in <font color="red">TPAMI</font>, another has been accepted by <font color="red">TGRS</font>.</p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp; 🎉🎉 Two papers accepted to <font color="red">ICLR 2025</font>: <a href="https://arxiv.org/abs/2412.11863">GeoX</a>, <a href="https://arxiv.org/abs/2406.08418">OmniCorpus</a></p>
-  - <p style='text-align:justify'><i>2025.01</i>: &nbsp;🔥🔥🎉🎉 We propose a closed-loop open-ended auto-research framework named Dolphin, aiming to simulate and further extend the entire process of human scientific research. For more video demonstrations, please visit the project homepage: <a href="https://alpha-innovator.github.io/Dolphin-project-page/">Project Homepage</a></p>
+  - <p style='text-align:justify'><i>2025.01</i>: &nbsp; 🔥🔥 We propose Dolphin, a multi-agent auto-research framework to simulate and further extend the entire process of human scientific research.
 
 **2024:**
   <!-- - <p style='text-align:justify'><i>2024.12</i>: &nbsp; Our research project, <a href="https://www.arxiv.org/abs/2412.11863/">GeoX</a>, has been officially open-sourced today. It is the first to explore formalized visual-language pre-training in enhancing geometric problem-solving abilities.</p> -->
