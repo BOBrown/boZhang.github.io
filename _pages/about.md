@@ -41,8 +41,8 @@ He has published 30+ papers in top-tier international conferences and journals s
 <div style='margin-top: 30pt'></div>
 
 # 🔥 Highlighted Projects
-- 🐬 <b>Dolphin</b>. (<font color="red">Auto-research framework</font> that achieves closed-loop LLM-driven framework to enhance the automation level of scientific research.) 
-[[**Project**]](https://alpha-innovator.github.io/Dolphin-project-page)[[**Technical report**]](https://arxiv.org/abs/2501.03916)
+- <b>NovelSeek</b>. (<font color="red">End-to-end Auto-research Framework</font> that has demonstrated its versatility across 12 scientific research tasks.) 
+[[**Project**]](https://github.com/Alpha-Innovator/NovelSeek)[[**Technical report**]](https://arxiv.org/abs/2505.16938)
 
 - <b>MinerU</b> and <b>PDF-Extract-Kit</b>. (<font color="red">A popular open-source tool</font>, converting PDFs into machine-readable formats (e.g., markdown, JSON), allowing for easy extraction into any format.) 
 [[**Project**]](https://github.com/opendatalab/PDF-Extract-Kit)[[**Technical report**]](https://arxiv.org/abs/2409.18839)
