@@ -96,7 +96,7 @@ He has published 40+ papers in top-tier international conferences and journals s
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/surveyforge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/chimera.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Chimera: Improving Generalist Model with Domain-Specific Experts](https://arxiv.org/abs/2412.05983)
