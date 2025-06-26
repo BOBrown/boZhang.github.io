@@ -32,7 +32,7 @@ He has published 40+ papers in top-tier international conferences and journals s
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
   🚀 Join Shanghai AI Lab's Elite Team! <br>
-  We're recruiting PhDs (2025/2026 intake) & Researcher (March/June 2025/2026 start) to pioneer LLM, Multi-Agent Optimization, and AutoGPT innovations.
+  We're recruiting PhDs (2025/2026 intake) & Researcher (June/Sep 2025/2026 start) to pioneer AI-Scientist, LLM/VLM, and Multi-Agent Self-evolution.
   <br>
   👉 Contact now with your CV + research vision: zhangbo@pjlab.org.cn & bo.zhangzx@gmail.com
   </div>
