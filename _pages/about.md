@@ -25,7 +25,7 @@ Bo Zhang received the Ph.D. degree in electronic engineering from the School of 
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-He has published 30+ papers in top-tier international conferences and journals such as CVPR, NeurIPS, ICLR, ICML, ACL, T-PAMI, TIP, TGRS, and IJCV. He also serves as a reviewer for several prestigious academic conferences and journals, including CVPR, ECCV, ICCV, NeurIPS, ICLR, ICML, ACL etc. He led the development of the 3DTrans general scene representation open-source project, which won the Waymo Challenge international competition and accumulated over 3k stars. Furthermore, he is committed to exploring the fundamental nature of long-chain reasoning in large models and aims to develop innovator-level agents through reinforcement learning methods and reflection mechanism.
+He has published 40+ papers in top-tier international conferences and journals such as CVPR, NeurIPS, ICLR, ICML, ACL, T-PAMI, TIP, TGRS, and IJCV. He also serves as a reviewer for several prestigious academic conferences and journals, including CVPR, ECCV, ICCV, NeurIPS, ICLR, ICML, ACL etc. He led the development of the 3DTrans general scene representation open-source project, which won the Waymo Challenge international competition and accumulated over 3k stars. Furthermore, he is committed to exploring the fundamental nature of long-chain reasoning in large models and aims to develop innovator-level agents through reinforcement learning methods and reflection mechanism.
   </div>
 </div>
 
@@ -55,6 +55,7 @@ He has published 30+ papers in top-tier international conferences and journals s
 
 # 🌎 News
 **2025:**
+  - <p style='text-align:justify'><i>2025.06</i>: &nbsp; Three papers accepted to <font color="red">ICCV 2025</font>: <a href="https://arxiv.org/abs/2412.05983">Chimera</a>, <a href="https://arxiv.org/abs/2503.21758">Lumina-Image 2.0</a>, <a href="https://arxiv.org/abs/2503.07167">TOP</a> </p> 
   - <p style='text-align:justify'><i>2025.05</i>: &nbsp; 🔥🔥🎉🎉  When Agent Becomes the Scientist: Your ultimate AI-powered Scientist for finding, analyzing, and experimentation like never before! <a href="https://alpha-innovator.github.io/NovelSeek-project-page">NovelSeek Page</a></p> 
   - <p style='text-align:justify'><i>2025.05</i>: &nbsp; 🎉🎉 <a href="https://arxiv.org/abs/2503.04629">SurveyForge</a> and <a href="https://arxiv.org/abs/2501.03916">Dolphin</a> are accepted by <font color="red">ACL-2025</font>.</p>
   - <p style='text-align:justify'><i>2025.05</i>: &nbsp;  <a href="https://arxiv.org/abs/2502.09621">MME-CoT</a> is accepted by <font color="red">ICML-2025</font>.</p>
@@ -94,6 +95,19 @@ He has published 30+ papers in top-tier international conferences and journals s
 <div style='margin-top: 30pt'></div>
 
 # 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/surveyforge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Chimera: Improving Generalist Model with Domain-Specific Experts](https://arxiv.org/abs/2412.05983)
+
+Tianshuo Peng, Mingsheng Li, Jiakang Yuan, Hongbin Zhou, Renqiu Xia, Renrui Zhang, Lei Bai, Song Mao, Bin Wang, Aojun Zhou, Botian Shi, Tao Chen, **<u>Bo Zhang^(corr.)</u>**, Xiangyu Yue
+[[**Project**]](https://github.com/Alpha-Innovator/Chimera)[[**Models**]](https://huggingface.co/collections/U4R/chimera-10-6749542e2f0dfa09414232c0)[[**Paper**]](https://arxiv.org/abs/2412.05983)
+- We propose Chimera, a scalable pipeline that integrates specialist models into generalist LMMs, facilitating their adaptation to many specialized tasks.
+- Chimera achieves SOTA performance on MathVista and MathVerse. Furthermore, it achieves near-specialist-level results in visual structural extraction on benchmarks like ChartQA-SE, Table-SE, Doc-SE.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/surveyforge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
