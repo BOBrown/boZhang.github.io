@@ -55,6 +55,7 @@ He has published 40+ papers in top-tier international conferences and journals s
 
 # 🌎 News
 **2025:**
+  - <p style='text-align:justify'><i>2025.06</i>: &nbsp; <a href="https://arxiv.org/abs/2309.10527">SPOT</a> been accepted as a Regular Paper in Transactions on Pattern Analysis and Machine Intelligence.</a> </p> 
   - <p style='text-align:justify'><i>2025.06</i>: &nbsp; Three papers accepted to <font color="red">ICCV 2025</font>: <a href="https://arxiv.org/abs/2412.05983">Chimera</a>, <a href="https://arxiv.org/abs/2503.21758">Lumina-Image 2.0</a>, <a href="https://arxiv.org/abs/2503.07167">TOP</a> </p> 
   - <p style='text-align:justify'><i>2025.05</i>: &nbsp; 🔥🔥🎉🎉  When Agent Becomes the Scientist: Your ultimate AI-powered Scientist for finding, analyzing, and experimentation like never before! <a href="https://alpha-innovator.github.io/NovelSeek-project-page">NovelSeek Page</a></p> 
   - <p style='text-align:justify'><i>2025.05</i>: &nbsp; 🎉🎉 <a href="https://arxiv.org/abs/2503.04629">SurveyForge</a> and <a href="https://arxiv.org/abs/2501.03916">Dolphin</a> are accepted by <font color="red">ACL-2025</font>.</p>
