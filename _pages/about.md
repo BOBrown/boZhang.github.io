@@ -41,8 +41,8 @@ He has published 40+ papers in top-tier international conferences and journals s
 <div style='margin-top: 30pt'></div>
 
 # 🔥 Highlighted Projects
-- <b>NovelSeek</b>. (<font color="red">End-to-end Auto-research Framework</font> that has demonstrated its versatility across 12 scientific research tasks.) 
-[[**Project**]](https://github.com/Alpha-Innovator/NovelSeek)[[**Technical report**]](https://arxiv.org/abs/2505.16938)
+- <b>InternAgent</b>. (<font color="red">End-to-end Auto-research Framework</font> that has demonstrated its versatility across 12 scientific research tasks.) 
+[[**Project**]](https://github.com/Alpha-Innovator/InternAgent)[[**Technical report**]](https://arxiv.org/abs/2505.16938)
 
 - <b>MinerU</b> and <b>PDF-Extract-Kit</b>. (<font color="red">A popular open-source tool</font>, converting PDFs into machine-readable formats (e.g., markdown, JSON), allowing for easy extraction into any format.) 
 [[**Project**]](https://github.com/opendatalab/PDF-Extract-Kit)[[**Technical report**]](https://arxiv.org/abs/2409.18839)
@@ -55,9 +55,9 @@ He has published 40+ papers in top-tier international conferences and journals s
 
 # 🌎 News
 **2025:**
+  - <p style='text-align:justify'><i>2025.07</i>: &nbsp; 🔥🔥🎉🎉  InternAgent: When Agent Becomes the Scientist -- Your ultimate AI-powered Scientist for finding, analyzing, and experimentation like never before! <a href="https://alpha-innovator.github.io/InternAgent-project-page">InternAgent Page</a></p> 
   - <p style='text-align:justify'><i>2025.06</i>: &nbsp; <a href="https://arxiv.org/abs/2309.10527">SPOT</a> has been accepted as a Regular Paper in Transactions on Pattern Analysis and Machine Intelligence.</a> </p> 
   - <p style='text-align:justify'><i>2025.06</i>: &nbsp; Three papers accepted to <font color="red">ICCV 2025</font>: <a href="https://arxiv.org/abs/2412.05983">Chimera</a>, <a href="https://arxiv.org/abs/2503.21758">Lumina-Image 2.0</a>, <a href="https://arxiv.org/abs/2503.07167">TOP</a> </p> 
-  - <p style='text-align:justify'><i>2025.05</i>: &nbsp; 🔥🔥🎉🎉  When Agent Becomes the Scientist: Your ultimate AI-powered Scientist for finding, analyzing, and experimentation like never before! <a href="https://alpha-innovator.github.io/NovelSeek-project-page">NovelSeek Page</a></p> 
   - <p style='text-align:justify'><i>2025.05</i>: &nbsp; 🎉🎉 <a href="https://arxiv.org/abs/2503.04629">SurveyForge</a> and <a href="https://arxiv.org/abs/2501.03916">Dolphin</a> are accepted by <font color="red">ACL-2025</font>.</p>
   - <p style='text-align:justify'><i>2025.05</i>: &nbsp;  <a href="https://arxiv.org/abs/2502.09621">MME-CoT</a> is accepted by <font color="red">ICML-2025</font>.</p>
   - <p style='text-align:justify'><i>2025.02</i>: &nbsp; 🎉🎉 Three papers are accepted by <font color="red">CVPR-2025</font>: JiSAM, OmniDocBench, CDM.</p>
