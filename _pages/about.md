@@ -19,20 +19,20 @@ redirect_from:
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-Bo Zhang received the Ph.D. degree in electronic engineering from the School of Information Science and Technology, Fudan University. He is currently a Research Scientist in Shanghai AI Laboratory. His work has led to many awards, including Shanghai Rising Star under Grant No. 23QD1401000, awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2020/2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security recognition, domain adaptive face recognition, and localization of concealed dangerous objects. 
+Bo Zhang received the Ph.D. degree in electronic engineering from the School of Information Science and Technology, Fudan University. He is currently a Research Scientist in Shanghai AI Laboratory. His work has led to many awards, including the Shanghai Rising Star under Grant No. 23QD1401000, the National Scholarship 2020/2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security recognition, domain adaptive face recognition, and localization of concealed dangerous objects. 
   </div>
 </div>
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-He has published 40+ papers in top-tier international conferences and journals such as CVPR, NeurIPS, ICLR, ICML, ACL, T-PAMI, TIP, TGRS, and IJCV. He also serves as a reviewer for several prestigious academic conferences and journals, including CVPR, ECCV, ICCV, NeurIPS, ICLR, ICML, ACL etc. He led the development of the 3DTrans general scene representation open-source project, which won the Waymo Challenge international competition and accumulated over 3k stars. Furthermore, he is committed to exploring the fundamental nature of long-chain reasoning in large models and aims to develop innovator-level agents through reinforcement learning methods and reflection mechanism.
+He has published 40+ papers in top-tier international conferences and journals such as CVPR, NeurIPS, ICLR, ICML, ACL, T-PAMI, TIP, TGRS, and IJCV. He also serves as a reviewer for several prestigious academic conferences and journals, including CVPR, ECCV, ICCV, NeurIPS, ICLR, ICML, ACL etc. He led the development of the 3DTrans general scene representation open-source project, which won the Waymo Challenge international competition and accumulated over 3k stars. He is currently exploring the fundamental nature of reasoning and innovation in large models, while striving to develop innovator-level agents.
   </div>
 </div>
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
   🚀 Join Shanghai AI Lab's Elite Team! <br>
-  We're recruiting PhDs (2025/2026 intake) & Researcher (June/Sep 2025/2026 start) to pioneer AI-Scientist, LLM/VLM, and Multi-Agent Self-evolution.
+  We're recruiting PhD candidates (2026/2027 intake) & Researchers (October 2025/March 2026 start) to pioneer DeepResearch Agent, Coding Agent, AI-Scientist, LLM/VLM, and Multi-Agent Self-evolution.
   <br>
   👉 Contact now with your CV + research vision: zhangbo@pjlab.org.cn & bo.zhangzx@gmail.com
   </div>
