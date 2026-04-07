@@ -25,7 +25,7 @@ Bo Zhang received the Ph.D. degree in electronic engineering from the School of 
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-He has published 40+ papers in top-tier international conferences and journals such as CVPR, NeurIPS, ICLR, ICML, ACL, T-PAMI, TIP, TGRS, and IJCV. He also serves as a reviewer for several prestigious academic conferences and journals, including CVPR, ECCV, ICCV, NeurIPS, ICLR, ICML, ACL etc. He led the development of the 3DTrans general scene representation open-source project, which won the Waymo Challenge international competition and accumulated over 3k stars. He is currently exploring the fundamental nature of reasoning and innovation in large models, while striving to develop innovator-level agents.
+He has published 40+ papers in top-tier international conferences and journals such as CVPR, ICLR, ICML, ACL, T-PAMI, TIP, and IJCV. He also actively contributes to the academic community as an AE or reviewer for leading conferences and journals. He led the development of the InternAgent/Intern-Discovery/3DTrans open-source project, which won the Waymo Challenge international competition and accumulated over 3k stars. He is currently exploring the fundamental nature of reasoning and innovation in large models, while striving to develop innovator-level agents.
   </div>
 </div>
 
@@ -41,8 +41,15 @@ He has published 40+ papers in top-tier international conferences and journals s
 <div style='margin-top: 30pt'></div>
 
 # 🔥 Highlighted Projects
+- <b>cc-mini</b>: Ultra-light Harness scaffolding for AI agents
+[[**Project**]](https://github.com/e10nMa2k/cc-mini)
+
+- <b>InternAgent-1.5</b>: We have continued to upgrade and released InternAgent-1.5, which achieves leading performance on scientific reasoning benchmarks including GAIA, HLE, GPQA, and FrontierScience, and supports end-to-end autonomous scientific discovery tasks across Physical, Biology, Earth, and Life Science domains 
+[[**Project**]](https://github.com/InternScience/InternAgent)[[**Technical report**]](https://huggingface.co/papers/2602.08990)
+
+- <p style='text-align:justify'><i>2026.02</i>: &nbsp; 🎉🎉  .<a href="https://huggingface.co/papers/2602.08990">InternAgent-1.5</a></p> 
 - <b>InternAgent</b>. (<font color="red">End-to-end Auto-research Framework</font> that has demonstrated its versatility across 12 scientific research tasks.) 
-[[**Project**]](https://github.com/Alpha-Innovator/InternAgent)[[**Technical report**]](https://arxiv.org/abs/2505.16938)
+[[**Project**]](https://github.com/InternScience/InternAgent)[[**Technical report**]](https://arxiv.org/abs/2505.16938)
 
 - <b>MinerU</b> and <b>PDF-Extract-Kit</b>. (<font color="red">A popular open-source tool</font>, converting PDFs into machine-readable formats (e.g., markdown, JSON), allowing for easy extraction into any format.) 
 [[**Project**]](https://github.com/opendatalab/PDF-Extract-Kit)[[**Technical report**]](https://arxiv.org/abs/2409.18839)
@@ -55,7 +62,10 @@ He has published 40+ papers in top-tier international conferences and journals s
 
 # 🌎 News
 **2025:**
-  - <p style='text-align:justify'><i>2025.07</i>: &nbsp; 🔥🔥🎉🎉  InternAgent: When Agent Becomes the Scientist -- Your ultimate AI-powered Scientist for finding, analyzing, and experimentation like never before! <a href="https://alpha-innovator.github.io/InternAgent-project-page">InternAgent Page</a></p> 
+  - <p style='text-align:justify'><i>2026.04</i>: &nbsp; Four papers were accepted at <font color="red">ACL 2026</font> and Three papers were accepted for <font color="red">ACL 2026</font></p> 
+  - <p style='text-align:justify'><i>2026.02</i>: &nbsp; Four papers accepted to <font color="red">CVPR 2026</font>, Highlight: <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Ouyang_OmniDocBench_Benchmarking_Diverse_PDF_Document_Parsing_with_Comprehensive_Annotations_CVPR_2025_paper.html">OmniDocBench</a> has been evaluated using Gemini-3-pro, Kimi-2.5, and DeepSeek-v3.2</p> 
+  - <p style='text-align:justify'><i>2025.06</i>: &nbsp; <a href="https://arxiv.org/abs/2309.10527">SPOT</a> has been accepted as a Regular Paper in Transactions on Pattern Analysis and Machine Intelligence.</a> </p> 
+  - <p style='text-align:justify'><i>2025.07</i>: &nbsp; 🎉🎉  InternAgent: When Agent Becomes the Scientist -- Your ultimate AI-powered Scientist for finding, analyzing, and experimentation like never before! <a href="https://alpha-innovator.github.io/InternAgent-project-page">InternAgent Page</a></p> 
   - <p style='text-align:justify'><i>2025.06</i>: &nbsp; <a href="https://arxiv.org/abs/2309.10527">SPOT</a> has been accepted as a Regular Paper in Transactions on Pattern Analysis and Machine Intelligence.</a> </p> 
   - <p style='text-align:justify'><i>2025.06</i>: &nbsp; Three papers accepted to <font color="red">ICCV 2025</font>: <a href="https://arxiv.org/abs/2412.05983">Chimera</a>, <a href="https://arxiv.org/abs/2503.21758">Lumina-Image 2.0</a>, <a href="https://arxiv.org/abs/2503.07167">TOP</a> </p> 
   - <p style='text-align:justify'><i>2025.05</i>: &nbsp; 🎉🎉 <a href="https://arxiv.org/abs/2503.04629">SurveyForge</a> and <a href="https://arxiv.org/abs/2501.03916">Dolphin</a> are accepted by <font color="red">ACL-2025</font>.</p>
