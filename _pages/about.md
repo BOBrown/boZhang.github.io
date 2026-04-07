@@ -25,7 +25,7 @@ Bo Zhang received the Ph.D. degree in electronic engineering from the School of 
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-He has published 40+ papers in top-tier international conferences and journals such as CVPR, ICLR, ICML, ACL, T-PAMI, TIP, and IJCV. He also actively contributes to the academic community as an AE or reviewer for leading conferences and journals. He led the development of the InternAgent/Intern-Discovery/3DTrans open-source project, which won the Waymo Challenge international competition and accumulated over 3k stars. He is currently exploring the fundamental nature of reasoning and innovation in large models, while striving to develop innovator-level agents.
+He has published 40+ papers in top-tier international conferences and journals such as CVPR, ICLR, ICML, ACL, T-PAMI, TIP, and IJCV. He also actively contributes to the academic community as an AE or reviewer for leading conferences and journals. He led the development of the InternAgent/Intern-Discovery/3DTrans open-source project, which won the Waymo Challenge international competition, received coverage from several mainstream media outlets, and accumulated over 13,000 stars.
   </div>
 </div>
 
