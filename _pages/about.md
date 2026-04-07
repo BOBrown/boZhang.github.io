@@ -47,7 +47,6 @@ He has published 40+ papers in top-tier international conferences and journals s
 - <b>InternAgent-1.5</b>: We have continued to upgrade and released InternAgent-1.5, which achieves leading performance on scientific reasoning benchmarks including GAIA, HLE, GPQA, and FrontierScience, and supports end-to-end autonomous scientific discovery tasks across Physical, Biology, Earth, and Life Science domains 
 [[**Project**]](https://github.com/InternScience/InternAgent)[[**Technical report**]](https://huggingface.co/papers/2602.08990)
 
-- <p style='text-align:justify'><i>2026.02</i>: &nbsp; 🎉🎉  .<a href="https://huggingface.co/papers/2602.08990">InternAgent-1.5</a></p> 
 - <b>InternAgent</b>. (<font color="red">End-to-end Auto-research Framework</font> that has demonstrated its versatility across 12 scientific research tasks.) 
 [[**Project**]](https://github.com/InternScience/InternAgent)[[**Technical report**]](https://arxiv.org/abs/2505.16938)
 
@@ -61,12 +60,15 @@ He has published 40+ papers in top-tier international conferences and journals s
 [[**Project**]](https://github.com/PJLab-ADG/3DTrans)[[**Technical report**]](https://arxiv.org/abs/2303.06880)
 
 # 🌎 News
-**2025:**
-  - <p style='text-align:justify'><i>2026.04</i>: &nbsp; Four papers were accepted at <font color="red">ACL 2026</font> and Three papers were accepted for <font color="red">ACL 2026</font></p> 
+**2026:**
+  - <p style='text-align:justify'><i>2026.04</i>: &nbsp; Four papers were accepted at <font color="red">ACL 2026 Main Conference</font> and Three papers were accepted for <font color="red">ACL 2026 Findings</font></p> 
   - <p style='text-align:justify'><i>2026.02</i>: &nbsp; Four papers accepted to <font color="red">CVPR 2026</font>, Highlight: <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Ouyang_OmniDocBench_Benchmarking_Diverse_PDF_Document_Parsing_with_Comprehensive_Annotations_CVPR_2025_paper.html">OmniDocBench</a> has been evaluated using Gemini-3-pro, Kimi-2.5, and DeepSeek-v3.2</p> 
-  - <p style='text-align:justify'><i>2025.06</i>: &nbsp; <a href="https://arxiv.org/abs/2309.10527">SPOT</a> has been accepted as a Regular Paper in Transactions on Pattern Analysis and Machine Intelligence.</a> </p> 
+  - <p style='text-align:justify'><i>2026.01</i>: &nbsp; <a href="https://arxiv.org/abs/2309.11268">StructChart</a> has been accepted as a Regular Paper in T-PAMI.</p> 
+
+**2025:**
+  - <p style='text-align:justify'><i>2025.09</i>: &nbsp; Welcome to try out our recent research product on AI agents:  <a href="https://discovery.intern-ai.org.cn/home">Intern Discovery</a></p> 
   - <p style='text-align:justify'><i>2025.07</i>: &nbsp; 🎉🎉  InternAgent: When Agent Becomes the Scientist -- Your ultimate AI-powered Scientist for finding, analyzing, and experimentation like never before! <a href="https://alpha-innovator.github.io/InternAgent-project-page">InternAgent Page</a></p> 
-  - <p style='text-align:justify'><i>2025.06</i>: &nbsp; <a href="https://arxiv.org/abs/2309.10527">SPOT</a> has been accepted as a Regular Paper in Transactions on Pattern Analysis and Machine Intelligence.</a> </p> 
+  - <p style='text-align:justify'><i>2025.06</i>: &nbsp; <a href="https://arxiv.org/abs/2309.10527">SPOT</a> has been accepted as a Regular Paper in Transactions on Pattern Analysis and Machine Intelligence. </p> 
   - <p style='text-align:justify'><i>2025.06</i>: &nbsp; Three papers accepted to <font color="red">ICCV 2025</font>: <a href="https://arxiv.org/abs/2412.05983">Chimera</a>, <a href="https://arxiv.org/abs/2503.21758">Lumina-Image 2.0</a>, <a href="https://arxiv.org/abs/2503.07167">TOP</a> </p> 
   - <p style='text-align:justify'><i>2025.05</i>: &nbsp; 🎉🎉 <a href="https://arxiv.org/abs/2503.04629">SurveyForge</a> and <a href="https://arxiv.org/abs/2501.03916">Dolphin</a> are accepted by <font color="red">ACL-2025</font>.</p>
   - <p style='text-align:justify'><i>2025.05</i>: &nbsp;  <a href="https://arxiv.org/abs/2502.09621">MME-CoT</a> is accepted by <font color="red">ICML-2025</font>.</p>
