@@ -19,20 +19,20 @@ redirect_from:
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-Bo Zhang received the Ph.D. degree in electronic engineering from the School of Information Science and Technology, Fudan University. He is currently a Research Scientist in Shanghai AI Laboratory. His work has led to many awards, including the Shanghai Rising Star under Grant No. 23QD1401000, the National Scholarship 2020/2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security recognition, domain adaptive face recognition, and localization of concealed dangerous objects. 
+Bo Zhang is a Young Scientist at Shanghai AI Laboratory. His work has led to many awards, including the Shanghai Rising Star under Grant No. 23QD1401000, the National Scholarship 2020/2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security recognition, domain adaptive face recognition, and localization of concealed dangerous objects. 
   </div>
 </div>
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-He has published 40+ papers in top-tier international conferences and journals such as CVPR, ICLR, ICML, ACL, T-PAMI, TIP, and IJCV. He also actively contributes to the academic community as an AE or reviewer for leading conferences and journals. He led the development of the InternAgent/Intern-Discovery/3DTrans open-source project, which won the Waymo Challenge international competition, received coverage from several mainstream media outlets, and accumulated over 13,000 stars.
+He has published 40+ papers in top-tier international conferences and journals such as CVPR, ICLR, ICML, ACL, T-PAMI, TIP, and IJCV. He also actively contributes to the academic community as an AE or reviewer for leading conferences and journals. He led the development of the InternAgent/Intern-Discovery/3DTrans open-source project, which won the Waymo Challenge international competition, received coverage from several mainstream media outlets, and accumulated over Github 13,000 stars.
   </div>
 </div>
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
   🚀 Join Shanghai AI Lab's Elite Team! <br>
-  We're recruiting PhD candidates (2026/2027 intake) & Researchers (October 2025/March 2026 start) to pioneer DeepResearch Agent, Coding Agent, AI-Scientist, LLM/VLM, and Multi-Agent Self-evolution.
+  We're recruiting PhD candidates (2027/2028 intake) & Researchers (June 2026/March 2027 start) to pioneer DeepResearch Agent, Coding Agent, AI-Scientist, LLM/VLM, and Multi-Agent Self-evolution.
   <br>
   👉 Contact now with your CV + research vision: zhangbo@pjlab.org.cn & bo.zhangzx@gmail.com
   </div>
