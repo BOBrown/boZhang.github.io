@@ -27,7 +27,7 @@ Bo Zhang is a Young Scientist at the Shanghai Artificial Intelligence Laboratory
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
 Over the course of my academic career, I have published more than 50 papers in top-tier venues such as CVPR, ICLR, ICML, ACL, T-PAMI, TIP, and IJCV. I am also proud to have won the <a href="https://github.com/openai/mle-bench">OpenAI MLE-bench</a> and Waymo Open Dataset Challenge for my work in multi-agent collaborative optimization and perception-decision making. 
 
-My team and I are deeply committed to building foundation agents and multi-agent systems that solve real-world challenges. I led the development of <a href="https://www.shlab.org.cn/news/5444184">InternAgent</a> and the <a href="https://www.shlab.org.cn/news/5444231">Intern-Discovery platform</a> , which was officially launched at WAIC 2025 and featured in MIT Technology Review and People's Daily. Using this platform, we collaborated with the Lingang Laboratory to develop <a href="https://www.biorxiv.org/content/10.1101/2025.06.03.657658v1">OriGene</a>, leading to the successful discovery of two original biological targets: GPR160 and ARG2.
+My team and I are deeply committed to building foundation agents and multi-agent systems that solve real-world challenges. I led the development of <a href="https://www.shlab.org.cn/news/5444184">InternAgent</a> and the <a href="https://www.shlab.org.cn/news/5444231">Intern-Discovery platform</a>, which was officially launched at WAIC 2025 and featured in MIT Technology Review and People's Daily. Using this platform, we collaborated with the Lingang Laboratory to develop <a href="https://www.biorxiv.org/content/10.1101/2025.06.03.657658v1">OriGene</a>, leading to the successful discovery of two original biological targets: GPR160 and ARG2.
   </div>
 </div>
 
@@ -72,11 +72,11 @@ My team and I are deeply committed to building foundation agents and multi-agent
   - <p style='text-align:justify'><i>2025.07</i>: &nbsp; 🎉🎉  InternAgent: When Agent Becomes the Scientist -- Your ultimate AI-powered Scientist for finding, analyzing, and experimentation like never before! <a href="https://alpha-innovator.github.io/InternAgent-project-page">InternAgent Page</a></p> 
   - <p style='text-align:justify'><i>2025.06</i>: &nbsp; <a href="https://arxiv.org/abs/2309.10527">SPOT</a> has been accepted as a Regular Paper in Transactions on Pattern Analysis and Machine Intelligence. </p> 
   - <p style='text-align:justify'><i>2025.06</i>: &nbsp; Three papers accepted to <font color="red">ICCV 2025</font>: <a href="https://arxiv.org/abs/2412.05983">Chimera</a>, <a href="https://arxiv.org/abs/2503.21758">Lumina-Image 2.0</a>, <a href="https://arxiv.org/abs/2503.07167">TOP</a> </p> 
-  - <p style='text-align:justify'><i>2025.05</i>: &nbsp; 🎉🎉 <a href="https://arxiv.org/abs/2503.04629">SurveyForge</a> and <a href="https://arxiv.org/abs/2501.03916">Dolphin</a> are accepted by <font color="red">ACL-2025</font>.</p>
-  - <p style='text-align:justify'><i>2025.05</i>: &nbsp;  <a href="https://arxiv.org/abs/2502.09621">MME-CoT</a> is accepted by <font color="red">ICML-2025</font>.</p>
-  - <p style='text-align:justify'><i>2025.02</i>: &nbsp; 🎉🎉 Three papers are accepted by <font color="red">CVPR-2025</font>: JiSAM, OmniDocBench, CDM.</p>
+  - <p style='text-align:justify'><i>2025.05</i>: &nbsp; <a href="https://arxiv.org/abs/2503.04629">SurveyForge</a> and <a href="https://arxiv.org/abs/2501.03916">Dolphin</a> are accepted by <font color="red">ACL-2025</font>.</p>
+  - <p style='text-align:justify'><i>2025.05</i>: &nbsp; <a href="https://arxiv.org/abs/2502.09621">MME-CoT</a> is accepted by <font color="red">ICML-2025</font>.</p>
+  - <p style='text-align:justify'><i>2025.02</i>: &nbsp; Three papers are accepted by <font color="red">CVPR-2025</font>: JiSAM, OmniDocBench, CDM.</p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp; One of our papers has been accepted for publication in <font color="red">TPAMI</font>, another has been accepted by <font color="red">TGRS</font>.</p>
-  - <p style='text-align:justify'><i>2025.01</i>: &nbsp; 🎉🎉 Two papers accepted to <font color="red">ICLR 2025</font>: <a href="https://arxiv.org/abs/2412.11863">GeoX</a>, <a href="https://arxiv.org/abs/2406.08418">OmniCorpus</a></p>
+  - <p style='text-align:justify'><i>2025.01</i>: &nbsp; Two papers accepted to <font color="red">ICLR 2025</font>: <a href="https://arxiv.org/abs/2412.11863">GeoX</a>, <a href="https://arxiv.org/abs/2406.08418">OmniCorpus</a></p>
 
 **2024:**
   <!-- - <p style='text-align:justify'><i>2024.12</i>: &nbsp; Our research project, <a href="https://www.arxiv.org/abs/2412.11863/">GeoX</a>, has been officially open-sourced today. It is the first to explore formalized visual-language pre-training in enhancing geometric problem-solving abilities.</p> -->
@@ -100,7 +100,7 @@ My team and I are deeply committed to building foundation agents and multi-agent
   - <p style='text-align:justify'><i>2023.08</i>: One paper <a href="https://arxiv.org/abs/2309.08771">BFDA</a> about cross-domain background-fouced alignment is accepted by <font color="red">TIP</font>.</p>
   - <p style='text-align:justify'><i>2023.07</i>: &nbsp; One paper entitled "SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification" is accepted by <font color="red">ACM MM-2023</font>.</p>
   - <p style='text-align:justify'><i>2023.04</i>: One paper entitled "Performance-aware Approximation of Global Channel Pruning for Multitask CNNs" is accepted for publication in <font color="red">T-PAMI</font>.</p>
-  - <p style='text-align:justify'><i>2023.03</i>: &nbsp;🎉🎉 <b>Three papers</b> are accepted by <font color="red">CVPR-2023</font>: Uni3D, Bi3D, GDP.</p>
+  - <p style='text-align:justify'><i>2023.03</i>: &nbsp; <b>Three papers</b> are accepted by <font color="red">CVPR-2023</font>: Uni3D, Bi3D, GDP.</p>
   - <p style='text-align:justify'><i>2023.02</i>: Bo Zhang started to work on exploring how to improve the problem-solving and reasoning ability of LLMs or VLMs for complicated modalities, including <b>Chart, Table, Geometry, Scientific Document</b>, by investigating foundation LLM models from the perspective of structured knowledge-rich data.</p>
 
 
