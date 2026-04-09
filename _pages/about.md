@@ -25,9 +25,9 @@ Bo Zhang is a Young Scientist at the Shanghai Artificial Intelligence Laboratory
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-Over the course of my academic career, I have published more than 50 papers in top-tier venues such as CVPR, ICLR, ICML, ACL, T-PAMI, TIP, and IJCV. I am also proud to have won the [OpenAI MLE-bench](https://github.com/openai/mle-bench) and Waymo Open Dataset Challenge for my work in multi-agent collaborative optimization and perception-decision making. 
+Over the course of my academic career, I have published more than 50 papers in top-tier venues such as CVPR, ICLR, ICML, ACL, T-PAMI, TIP, and IJCV. I am also proud to have won the [[OpenAI MLE-bench]](https://github.com/openai/mle-bench) and Waymo Open Dataset Challenge for my work in multi-agent collaborative optimization and perception-decision making. 
 
-My team and I are deeply committed to building foundation agents and multi-agent systems that solve real-world challenges. I led the development of [InternAgent](https://www.shlab.org.cn/news/5444184) and the [Intern-Discovery platform](https://www.shlab.org.cn/news/5444231), which was officially launched at WAIC 2025 and featured in MIT Technology Review and People's Daily. Using this platform, we collaborated with the Lingang Laboratory to develop [OriGene](https://www.biorxiv.org/content/10.1101/2025.06.03.657658v1), leading to the successful discovery of two original biological targets: GPR160 and ARG2.
+My team and I are deeply committed to building foundation agents and multi-agent systems that solve real-world challenges. I led the development of [[InternAgent]](https://www.shlab.org.cn/news/5444184) and the [[Intern-Discovery platform]](https://www.shlab.org.cn/news/5444231), which was officially launched at WAIC 2025 and featured in MIT Technology Review and People's Daily. Using this platform, we collaborated with the Lingang Laboratory to develop [[OriGene]](https://www.biorxiv.org/content/10.1101/2025.06.03.657658v1), leading to the successful discovery of two original biological targets: GPR160 and ARG2.
   </div>
 </div>
 
