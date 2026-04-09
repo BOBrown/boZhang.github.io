@@ -19,13 +19,15 @@ redirect_from:
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-Bo Zhang is a Young Scientist at Shanghai AI Laboratory. His work has led to many awards, including the Shanghai Rising Star under Grant No. 23QD1401000, the National Scholarship 2020/2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security recognition, domain adaptive face recognition, and localization of concealed dangerous objects. 
+Bo Zhang is a Young Scientist at the Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab) and Head of the Scientific Discovery System Team at the AI for Science Center. His research focuses on general AI agents, multimodal reasoning large models, and their applications in autonomous scientific discovery. His work has led to many awards, including the Outstanding Young Talents in Shanghai, Shanghai Rising Star, the National Scholarship 2020/2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security recognition and Robosweeper.
   </div>
 </div>
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-He has published 40+ papers in top-tier international conferences and journals such as CVPR, ICLR, ICML, ACL, T-PAMI, TIP, and IJCV. He also actively contributes to the academic community as an AE or reviewer for leading conferences and journals. He led the development of the InternAgent/Intern-Discovery/3DTrans open-source project, which won the Waymo Challenge international competition, received coverage from several mainstream media outlets, and accumulated over Github 13,000 stars.
+Over the course of my academic career, I have published more than 50 papers in top-tier venues such as CVPR, ICLR, ICML, ACL, T-PAMI, TIP, and IJCV. I am also proud to have won the [OpenAI MLE-bench](https://github.com/openai/mle-bench) and Waymo Open Dataset Challenge for my work in multi-agent collaborative optimization and perception-decision making. 
+
+My team and I are deeply committed to building foundation agents and multi-agent systems that solve real-world challenges. I led the development of [InternAgent](https://www.shlab.org.cn/news/5444184) and the [Intern-Discovery platform](https://www.shlab.org.cn/news/5444231), which was officially launched at WAIC 2025 and featured in MIT Technology Review and People's Daily. Using this platform, we collaborated with the Lingang Laboratory to develop [OriGene](https://www.biorxiv.org/content/10.1101/2025.06.03.657658v1), leading to the successful discovery of two original biological targets: GPR160 and ARG2.
   </div>
 </div>
 
@@ -75,23 +77,20 @@ He has published 40+ papers in top-tier international conferences and journals s
   - <p style='text-align:justify'><i>2025.02</i>: &nbsp; 🎉🎉 Three papers are accepted by <font color="red">CVPR-2025</font>: JiSAM, OmniDocBench, CDM.</p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp; One of our papers has been accepted for publication in <font color="red">TPAMI</font>, another has been accepted by <font color="red">TGRS</font>.</p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp; 🎉🎉 Two papers accepted to <font color="red">ICLR 2025</font>: <a href="https://arxiv.org/abs/2412.11863">GeoX</a>, <a href="https://arxiv.org/abs/2406.08418">OmniCorpus</a></p>
-  <!-- - <p style='text-align:justify'><i>2025.01</i>: &nbsp; 🔥🔥 We propose Dolphin, a multi-agent auto-research framework to simulate and further extend the entire process of human scientific research. -->
 
 **2024:**
   <!-- - <p style='text-align:justify'><i>2024.12</i>: &nbsp; Our research project, <a href="https://www.arxiv.org/abs/2412.11863/">GeoX</a>, has been officially open-sourced today. It is the first to explore formalized visual-language pre-training in enhancing geometric problem-solving abilities.</p> -->
   - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 <font color="red">Grateful for the heartfelt recognition and thoughtful sharing of my research work</font> <a href="https://www.sohu.com/a/814145951_121124291/">Fudan_CYL</a> and <a href="https://mp.weixin.qq.com/s/KVAI0Q7spu6yot-6oQOewQ">Fudan_SIST</a> .</p>
   - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 The technical report for <a href="https://arxiv.org/abs/2409.18839/"><font color="red">MinerU</font></a> with high table extraction ability (<a href="https://huggingface.co/U4R/StructTable-base">StructEqTable-Deploy</a>), an open-source solution for high-precision document content extraction, has been published. </p>
   - <p style='text-align:justify'><i>2024.09</i>: Three papers accepted to <font color="red">NeurIPS 2024</font>: <a href="https://arxiv.org/abs/2410.09873/">AdaptiveDiffusion</a>, <a href="https://arxiv.org/abs/2411.05311/">ZOPP</a>, <a href="https://arxiv.org/abs/2405.15324/">LeapAD</a> </p>
-  <!-- - <p style='text-align:justify'><i>2024.09</i>: &nbsp; Previous evaluation metrics for Formula and Table Recognition tasks, such as BLEU and Edit Distrance, exhibit limitations. <a href="https://github.com/opendatalab/UniMERNet/tree/main/cdm/">Our CDM</a> has been released to ensure the evaluation objectivity by designing an image-level rather than LaTex-level metric score for Formula and Table Recognition evaluation.</p> -->
   - <p style='text-align:justify'><i>2024.08</i>: Bo Zhang was invited to serve as a PC member of <font color="red">AAAI 2025</font>.</p>
-  <!-- - <p style='text-align:justify'><i>2024.08</i>: &nbsp; We open-sourced StructTable: Table Structural Extraction Model <a href="https://huggingface.co/U4R/StructTable-base/">Models</a> and <a href="https://github.com/UniModal4Reasoning/StructEqTable-Deploy/">StructEqTable-Deploy</a>. It is a open-source repository to support the structuring tasks of visual tables.</p> -->
-  - <p style='text-align:justify'><i>2024.08</i>: We collaborated with the OpenDataLab team to open-source the <font color="red">PDF-Extract-Kit</font>. It can extract high-quality and structured content from PDFs and has gained <b>6K+</b> stars.</p>
+  - <p style='text-align:justify'><i>2024.07</i>: We collaborated with the OpenDataLab team to open-source the <font color="red">PDF-Extract-Kit</font>. It can extract high-quality and structured content from PDFs and has gained <b>6K+</b> stars.</p>
   - <p style='text-align:justify'><i>2024.07</i>: One paper (<a href="https://link.springer.com/chapter/10.1007/978-3-031-72775-7_12">Reg-TTA3D</a>) is accepted by <font color="red">ECCV 2024</font>. We explore test-time adaptive 3d object detection for the first time.</p>
   - <p style='text-align:justify'><i>2024.05</i>: Our paper entitled "<a href="https://arxiv.org/abs/2402.03660">Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm</a>"  is accepted for publication in <font color="red">ICML 2024</font>.</p>
   - <p style='text-align:justify'><i>2024.05</i>: One paper (<a href="https://arxiv.org/abs/2402.14800">Expert Pruning-Skipping</a>) is accepted by <font color="red">ACL 2024</font>.</p>
   - <p style='text-align:justify'><i>2024.02</i>: One paper (<a href="https://arxiv.org/abs/2403.15835">Once for Both</a>) is accepted by <font color="red">CVPR-2024</font>.</p>
   - <p style='text-align:justify'><i>2024.01</i>: One paper (<a href="https://arxiv.org/abs/2309.05527">ReSimAD</a>) is accepted by <font color="red">ICLR 2024</font>. We propose a zero-shot generalization framework by reconstructing mesh and simulating target point clouds.</p>
-  - <p style='text-align:justify'><i>2024.01</i>: Two papers (<a href="https://ieeexplore.ieee.org/abstract/document/10516600/">IPNet</a> and <a href="https://ieeexplore.ieee.org/abstract/document/10360874/">MVNet</a>) are accepted by <font color="red">TCSVT</font>. </p>
+  <!-- - <p style='text-align:justify'><i>2024.01</i>: Two papers (<a href="https://ieeexplore.ieee.org/abstract/document/10516600/">IPNet</a> and <a href="https://ieeexplore.ieee.org/abstract/document/10360874/">MVNet</a>) are accepted by <font color="red">TCSVT</font>. </p> -->
 
 **2023:**
   - <p style='text-align:justify'><i>2023.12</i>: We have released the <a href="https://github.com/UniModal4Reasoning/ChartVLM?tab=readme-ov-file">ChartX benchmark</a>, covering 18 chart types, 7 chart tasks, 22 disciplinary topics to evaluate the chart-related capabilities of the existing MLLMS.</p>
@@ -108,6 +107,19 @@ He has published 40+ papers in top-tier international conferences and journals s
 <div style='margin-top: 30pt'></div>
 
 # 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main (Oral)</div><img src='images/flowsearch.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FlowSearch: Advancing deep research with dynamic structured knowledge flow](https://arxiv.org/abs/2510.08521)
+
+Yusong Hu, Runmin Ma, Yue Fan, Jinxin Shi, Zongsheng Cao, Yuhao Zhou, Jiakang Yuan, Shuaiyu Zhang, Shiyang Feng, Xiangchao Yan, Shufei Zhang, Wenlong Zhang, Lei Bai, **<u>Bo Zhang^(corr.)</u>**
+[[**Project**]](https://github.com/InternScience/InternAgent)[[**Paper**]](https://arxiv.org/abs/2510.08521)
+- We propose  FlowSearch, a multi-agent system built upon the dynamic structured knowledge flow, capable of generating structured plans and dynamically refining them during execution phase to enhance performance.
+-We evaluate FlowSearch on the general AI assistant benchmark GAIA and the multi-disciplinary scientific benchmarks HLE, GPQA and TRQA, demonstrating state-of-the-art results.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/chimera.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -188,7 +200,7 @@ Qingyun Li, Zhe Chen, Weiyun Wang, Wenhai Wang, Shenglong Ye, Zhenjiang Jin, Gua
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIS</div><img src='images/internvl-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites](https://arxiv.org/abs/2404.16821)
+[InternVL-1.5: How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites](https://arxiv.org/abs/2404.16821)
 
 Zhe Chen, Weiyun Wang, Hao Tian, Shenglong Ye, Zhangwei Gao, Erfei Cui, Wenwen Tong, Kongzhi Hu, Jiapeng Luo, Zheng Ma, Ji Ma, Jiaqi Wang, Xiaoyi Dong, Hang Yan, Hewei Guo, Conghui He, Botian Shi, Zhenjiang Jin, Chao Xu, Bin Wang, Xingjian Wei, Wei Li, Wenjian Zhang, **<u>Bo Zhang</u>**, Pinlong Cai, Licheng Wen, Xiangchao Yan, Min Dou, Lewei Lu, Xizhou Zhu, Tong Lu, Dahua Lin, Yu Qiao, Jifeng Dai, Wenhai Wang
 
@@ -393,6 +405,7 @@ Hancheng Ye, **<u>Bo Zhang</u>**, Tao Chen, Jiayuan Fan, Bin Wang
 
 
 # 💬 Invited Talks
+- *2026.03*, Invited talk of **2026 Hong Kong-Shanghai AI Forum**. [[Video]](https://finance.sina.cn/stock/jdts/2026-02-27/detail-inhpfnzk9959683.d.html?vt=4&cid=76993&node_id=76993) [[Newspaper]](https://www.shkjb.com/FileUploads/pdf/260306/kj03061.pdf) 
 - *2024.07*, Invited talk of **Multimodal Large Model Summit**. [[Video]](https://conf.csig.org.cn/6594/202407/44775.html)
 - *2023.09*, Invited talk of **Effcient Pre-training of Autonomous Driving**. [[Video]](https://www.bilibili.com/video/BV1Sh4y1h7JK/?spm_id_from=333.337.search-card.all.click&vd_source=6efc9ee7fe0b74418e81b9b883e2a403)
 - *2023.07*, Invited talk of **Towards 3D General Representation** at Techbeat. [[Video]](https://www.techbeat.net/talk-info?id=795)
@@ -412,12 +425,10 @@ During his Ph.D. studies, Bo Zhang dedicated himself to advancing domain-adaptiv
 
 <div style='margin-top: 30pt'></div>
 
-# 📝 Collaborators
+<!-- # 📝 Collaborators
 
-- <a href="https://github.com/Alpha-Innovator">Alpha-Innovator</a>
+- <a href="https://github.com/Alpha-Innovator">Alpha-Innovator</a> -->
 
 <!-- - <a href="https://thinklab.sjtu.edu.cn/">ReThinkLab</a> -->
 <!-- - <a href="http://leibai.site/">Lei Bai</a>
-- <a href="https://gaopengcuhk.github.io/">Peng Gao</a>
-- <a href="https://www.rjchen.site/">Runjian Chen</a>
 - <a href="https://xyue.io/">Xiangyu Yue</a> -->
