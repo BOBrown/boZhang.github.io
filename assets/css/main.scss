@@ -3,10 +3,7 @@
 
 /*
  *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
+ *    Enhanced design by Bo Zhang
  *
 */
 
@@ -40,70 +37,416 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+
+/* ============================================================
+   Scroll offset for anchor links
+   ============================================================ */
+
+$scroll_offset: 2em;
+
+h1:before, .anchor:before {
+  content: '';
+  display: block;
+  position: relative;
+  width: 0;
+  height: $scroll_offset;
+  margin-top: -$scroll_offset;
+}
+
+
+/* ============================================================
+   Section Headings — Modern Style Override
+   ============================================================ */
+
+.page__content h1 {
+  font-size: 1.4em;
+  font-weight: 800;
+  color: $primary-color;
+  border-bottom: none;
+  margin-top: 2.4em;
+  margin-bottom: 0.8em;
+  padding-bottom: 0;
+  letter-spacing: -0.02em;
+  position: relative;
+
+  &::after {
+    content: '';
+    display: block;
+    margin-top: 0.35em;
+    width: 2.8em;
+    height: 3px;
+    background: linear-gradient(90deg, $info-color 0%, rgba(29, 78, 216, 0.18) 100%);
+    border-radius: 2px;
+  }
+}
+
+
+/* ============================================================
+   Paper Box — Research Publication Cards
+   ============================================================ */
+
 .paper-box {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-bottom: 1px solid #edf0f5;
+  padding: 2em 0.5em 2em 0.5em;
+  border-radius: 10px;
+  transition: background-color 0.2s ease, box-shadow 0.2s ease;
+
+  &:last-of-type {
+    border-bottom: none;
+  }
+
+  &:hover {
+    background-color: #fafbff;
+    box-shadow: 0 2px 16px rgba(26, 38, 84, 0.06);
+  }
+
+  .paper-box-image {
+    justify-content: center;
     display: flex;
-    justify-content: left;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    width: 100%;
+    order: 2;
 
-    .paper-box-image{
-        justify-content: center;
-        display: flex;
-        width: 100%;
-        order: 2;
-        img {
-            max-width: 300px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
-        }
+    div {
+      position: relative;
+      width: 100%;
+      max-width: 300px;
     }
-    
-    .paper-box-text{
+
+    img {
+      width: 100%;
+      border-radius: 10px;
+      box-shadow: 0 4px 18px rgba(26, 38, 84, 0.13);
+      object-fit: cover;
+      aspect-ratio: 4/3;
+      transition: box-shadow 0.3s ease, transform 0.3s ease;
+      display: block;
+
+      &:hover {
+        box-shadow: 0 8px 28px rgba(26, 38, 84, 0.22);
+        transform: translateY(-3px);
+      }
+    }
+  }
+
+  .paper-box-text {
+    max-width: 100%;
+    order: 1;
+
+    /* Paper title link */
+    > p:first-child a,
+    > p:first-child strong a,
+    h3 a, h4 a {
+      font-size: 1.03em;
+      font-weight: 700;
+      color: $primary-color;
+      text-decoration: none;
+      line-height: 1.4;
+
+      &:hover {
+        color: $info-color;
+        text-decoration: underline;
+      }
+    }
+
+    /* Author list */
+    > p:nth-child(2) {
+      font-size: 0.875em;
+      color: #64748b;
+      line-height: 1.6;
+      margin-bottom: 0.6em;
+    }
+
+    /* Link buttons: [[Project]], [[Paper]], etc. */
+    > p a[href] {
+      display: inline-block;
+      font-size: 0.8em;
+      font-weight: 600;
+      color: $info-color;
+      text-decoration: none;
+      padding: 0.18em 0.55em;
+      border: 1.5px solid $info-color;
+      border-radius: 4px;
+      margin-right: 4px;
+      margin-bottom: 4px;
+      transition: background-color 0.18s ease, color 0.18s ease;
+
+      &:hover {
+        background-color: $info-color;
+        color: #fff;
+        text-decoration: none;
+      }
+    }
+
+    ul {
+      margin-top: 0.6em;
+      padding-left: 1.3em;
+
+      li {
+        font-size: 0.875em;
+        color: #4b5563;
+        line-height: 1.65;
+        margin-bottom: 0.25em;
+      }
+    }
+  }
+
+  @include breakpoint($medium) {
+    .paper-box-image {
+      justify-content: flex-start;
+      min-width: 200px;
+      max-width: 30%;
+      order: 1;
+      padding-top: 0.25em;
+
+      div {
         max-width: 100%;
-        order: 1;
-    }
-    
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 32%;
-            order: 1;
-        }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
-        }
-
+      }
     }
 
-
+    .paper-box-text {
+      padding-left: 1.75em;
+      max-width: 68%;
+      order: 2;
+    }
+  }
 }
 
-$scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
-    margin-top: -$scroll_offset;
-}
+
+/* ============================================================
+   Badge — Conference / Journal Labels
+   ============================================================ */
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
+  display: inline-block;
+  padding: 0.22em 0.7em;
+  position: absolute;
+  top: 0.55em;
+  left: -0.2em;
+  color: #fff;
+  background: linear-gradient(135deg, $primary-color 0%, $info-color 100%);
+  font-size: 0.76em;
+  font-weight: 700;
+  font-family: "Inter", sans-serif;
+  letter-spacing: 0.04em;
+  border-radius: 4px 4px 4px 0;
+  box-shadow: 0 2px 8px rgba(29, 78, 216, 0.32);
+  white-space: nowrap;
+  z-index: 1;
+
+  /* Small triangle to make it look like a ribbon corner tag */
+  &::before {
+    content: '';
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
+    bottom: -5px;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 5px 5px 0;
+    border-color: transparent darken($primary-color, 15%) transparent transparent;
+  }
+}
+
+
+/* ============================================================
+   Highlighted Projects — Visual List
+   ============================================================ */
+
+.page__content ul li {
+  b, strong {
+    color: $primary-color;
+  }
+}
+
+
+/* ============================================================
+   Bio Intro Paragraphs
+   ============================================================ */
+
+.bio-intro {
+  font-size: 1em;
+  text-align: justify;
+  line-height: 1.85;
+  color: #334155;
+  margin-top: 1.4em;
+  margin-bottom: 0;
+  max-width: 100%;
+
+  a {
+    color: $info-color;
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: 1.5px solid rgba(29, 78, 216, 0.25);
+    transition: border-color 0.2s ease, color 0.2s ease;
+
+    &:hover {
+      color: darken($info-color, 8%);
+      border-bottom-color: $info-color;
+      text-decoration: none;
+    }
+  }
+}
+
+
+/* ============================================================
+   Recruitment Call-out Box
+   ============================================================ */
+
+.recruit-box {
+  background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+  border: 1px solid #bfdbfe;
+  border-left: 4px solid $info-color;
+  border-radius: 10px;
+  padding: 1.1em 1.5em 1.2em;
+  margin: 1.6em 0 0.5em;
+  font-size: 0.95em;
+  line-height: 1.9;
+  color: #1e3a5f;
+
+  strong {
+    color: $primary-color;
+    font-weight: 700;
+  }
+
+  a {
+    color: $info-color;
+    font-weight: 600;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+
+/* ============================================================
+   News Year Headers
+   ============================================================ */
+
+.page__content h2 {
+  font-size: 1.05em;
+  font-weight: 700;
+  color: #374151;
+  border-bottom: 1px solid $border-color;
+  padding-bottom: 0.3em;
+  margin-top: 1.4em;
+  margin-bottom: 0.6em;
+}
+
+
+/* ============================================================
+   News List Items
+   ============================================================ */
+
+.page__content p[style*="text-align:justify"] {
+  font-size: 0.9em;
+  line-height: 1.75;
+  color: #374151;
+  margin-bottom: 0.5em;
+
+  i {
+    color: #64748b;
+    font-style: normal;
+    font-weight: 600;
+    min-width: 5.5em;
+    display: inline-block;
+  }
+}
+
+
+/* ============================================================
+   Invited Talks & Internships
+   ============================================================ */
+
+.page__content ul li {
+  font-size: 0.92em;
+  line-height: 1.7;
+  margin-bottom: 0.4em;
+  color: #374151;
+
+  a {
+    color: $info-color;
+    font-weight: 500;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+
+/* ============================================================
+   Table of Contents / Navigation overrides
+   ============================================================ */
+
+.nav__list .nav__items {
+  font-size: 0.9em;
+}
+
+
+/* ============================================================
+   Responsive Enhancements
+   ============================================================ */
+
+@include breakpoint(max-width $medium) {
+  .page__content h1 {
+    font-size: 1.25em;
+  }
+
+  .paper-box {
+    padding: 1.5em 0.2em;
+  }
+}
+
+
+/* ============================================================
+   Smooth scrolling
+   ============================================================ */
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+/* ============================================================
+   Navigation active link highlight
+   ============================================================ */
+
+.greedy-nav .visible-links a {
+  &:hover {
+    color: $info-color;
+  }
+}
+
+
+/* ============================================================
+   Selection highlight
+   ============================================================ */
+
+::selection {
+  background-color: rgba(29, 78, 216, 0.15);
+  color: $primary-color;
+}
+
+::-moz-selection {
+  background-color: rgba(29, 78, 216, 0.15);
+  color: $primary-color;
+}
+
+
+/* ============================================================
+   Scholar stats badge
+   ============================================================ */
+
+img[src*="shields.io"] {
+  vertical-align: middle;
+  margin-left: 4px;
+  border-radius: 4px;
 }

@@ -17,27 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
-  <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
+<div class="bio-intro">
 Bo Zhang is a Young Scientist at the Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab) and Head of the Scientific Discovery System Team at the AI for Science Center. His research focuses on general AI agents, multimodal reasoning large models, and their applications in autonomous scientific discovery. His work has led to many awards, including the Outstanding Young Talents in Shanghai, Shanghai Rising Star, the National Scholarship 2020/2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security recognition and Robosweeper.
-  </div>
 </div>
 
-<div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
-  <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-Over the course of my academic career, I have published more than 50 papers in top-tier venues such as CVPR, ICLR, ICML, ACL, T-PAMI, TIP, and IJCV. I am also proud to have won the <a href="https://github.com/openai/mle-bench">OpenAI MLE-bench</a> and Waymo Open Dataset Challenge for my work in multi-agent collaborative optimization and perception-decision making. 
+<div class="bio-intro">
+Over the course of my academic career, I have published more than 50 papers in top-tier venues such as CVPR, ICLR, ICML, ACL, T-PAMI, TIP, and IJCV. I am also proud to have won the <a href="https://github.com/openai/mle-bench">OpenAI MLE-bench</a> and Waymo Open Dataset Challenge for my work in multi-agent collaborative optimization and perception-decision making.
 
 My team and I are deeply committed to building foundation agents and multi-agent systems that solve real-world challenges. I led the development of <a href="https://www.shlab.org.cn/news/5444184">InternAgent</a> and the <a href="https://www.shlab.org.cn/news/5444231">Intern-Discovery platform</a>, which was officially launched at WAIC 2025 and featured in MIT Technology Review and People's Daily. Using this platform, we collaborated with the Lingang Laboratory to develop <a href="https://www.biorxiv.org/content/10.1101/2025.06.03.657658v1">OriGene</a>, leading to the successful discovery of two original biological targets: GPR160 and ARG2.
-  </div>
 </div>
 
-<div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
-  <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-  🚀 Join Shanghai AI Lab's Elite Team! <br>
-  We're recruiting PhD candidates (2027/2028 intake) & Researchers (June 2026/March 2027 start) to pioneer DeepResearch Agent, Coding Agent, AI-Scientist, LLM/VLM, and Multi-Agent Self-evolution.
-  <br>
-  👉 Contact now with your CV + research vision: zhangbo@pjlab.org.cn & bo.zhangzx@gmail.com
-  </div>
+<div class="recruit-box">
+  🚀 <strong>Join Shanghai AI Lab's Elite Team!</strong><br>
+  We're recruiting PhD candidates (2027/2028 intake) &amp; Researchers (June 2026/March 2027 start) to pioneer DeepResearch Agent, Coding Agent, AI-Scientist, LLM/VLM, and Multi-Agent Self-evolution.<br>
+  👉 Contact now with your CV + research vision: <a href="mailto:zhangbo@pjlab.org.cn">zhangbo@pjlab.org.cn</a> &amp; <a href="mailto:bo.zhangzx@gmail.com">bo.zhangzx@gmail.com</a>
 </div>
 
 <div style='margin-top: 30pt'></div>
