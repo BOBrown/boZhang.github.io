@@ -54,6 +54,8 @@ My team and I are deeply committed to building foundation agents and multi-agent
 - <b>3DTrans (Work during the PhD period)</b>. (An Open-source Codebase for Continuous Learning towards Autonomous Driving Task, including Unsupervised Domain Adaptation (UDA), Active Domain Adaptation (ADA), Semi-Supervised Domain Adaptation (SSDA), and Multi-dateset Domain Fusion (MDF) tasks.) 
 [[**Project**]](https://github.com/PJLab-ADG/3DTrans)[[**Technical report**]](https://arxiv.org/abs/2303.06880)
 
+<span class='anchor' id='news'></span>
+
 # 🌎 News
 **2026:**
   - <p style='text-align:justify'><i>2026.04</i>: &nbsp; Four papers were accepted at <font color="red">ACL 2026 Main Conference</font> and Three papers were accepted for <font color="red">ACL 2026 Findings</font></p> 
@@ -98,6 +100,8 @@ My team and I are deeply committed to building foundation agents and multi-agent
 
 
 <div style='margin-top: 30pt'></div>
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Selected Publications 
 
@@ -397,6 +401,8 @@ Hancheng Ye, **<u>Bo Zhang</u>**, Tao Chen, Jiayuan Fan, Bin Wang
 
 
 
+<span class='anchor' id='invited-talks'></span>
+
 # 💬 Invited Talks
 - *2026.03*, Invited talk of **2026 Hong Kong-Shanghai AI Forum**. [[Video]](https://finance.sina.cn/stock/jdts/2026-02-27/detail-inhpfnzk9959683.d.html?vt=4&cid=76993&node_id=76993) [[Newspaper]](https://www.shkjb.com/FileUploads/pdf/260306/kj03061.pdf) 
 - *2024.07*, Invited talk of **Multimodal Large Model Summit**. [[Video]](https://conf.csig.org.cn/6594/202407/44775.html)
@@ -405,6 +411,8 @@ Hancheng Ye, **<u>Bo Zhang</u>**, Tao Chen, Jiayuan Fan, Bin Wang
 - *2023.03*, Invited talk of **Transferable Pwerception of Autonomous Driving**. [[Video]](rom=333.337.search-card.all.click&vd_source=6efc9ee7fe0b74418e81b9b883e2a403)
 
 <div style='margin-top: 30pt'></div>
+
+<span class='anchor' id='internships'></span>
 
 # 💻 Internships
 
