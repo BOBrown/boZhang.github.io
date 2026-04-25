@@ -35,6 +35,8 @@ My team and I are deeply committed to building foundation agents and multi-agent
 
 <div style='margin-top: 30pt'></div>
 
+<span class='anchor' id='highlighted-projects'></span>
+
 # 🔥 Highlighted Projects
 - <b>cc-mini</b>: Ultra-light Harness scaffolding for AI agents
 [[**Project**]](https://github.com/e10nMa2k/cc-mini)
@@ -417,6 +419,8 @@ Hancheng Ye, **<u>Bo Zhang</u>**, Tao Chen, Jiayuan Fan, Bin Wang
 # 💻 Internships
 
 - *2021.12 - 2022.06*, [Shanghai AI Laboratory](https://www.shlab.org.cn), China.
+
+<span class='anchor' id='phd-thesis'></span>
 
 # 🎓 Ph.D Thesis
 
