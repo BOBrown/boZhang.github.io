@@ -13,8 +13,9 @@ body {
   padding-bottom: 0em;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.65;
+  line-height: 1.72;
   font-size: #{$doc-font-size}px;
+  letter-spacing: 0.01em;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
