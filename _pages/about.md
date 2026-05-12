@@ -61,7 +61,7 @@ My team and I are deeply committed to building foundation agents and multi-agent
 # 🌎 News
 **2026:**
   - <p style='text-align:justify'><i>2026.04</i>: &nbsp; Four papers were accepted at <font color="red">ACL 2026 Main Conference</font> and Three papers were accepted for <font color="red">ACL 2026 Findings</font></p> 
-  - <p style='text-align:justify'><i>2026.02</i>: &nbsp; Four papers accepted to <font color="red">CVPR 2026</font>, Highlight: <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Ouyang_OmniDocBench_Benchmarking_Diverse_PDF_Document_Parsing_with_Comprehensive_Annotations_CVPR_2025_paper.html">OmniDocBench</a> has been evaluated by Gemini-3-pro, Kimi-2.5, and DeepSeek-v3.2 in their technical report</p> 
+  - <p style='text-align:justify'><i>2026.02</i>: &nbsp; Four papers accepted to <font color="red">CVPR 2026</font>, Highlight: <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Ouyang_OmniDocBench_Benchmarking_Diverse_PDF_Document_Parsing_with_Comprehensive_Annotations_CVPR_2025_paper.html">OmniDocBench</a> has been evaluated by Gemini-3-pro, Kimi-2.5, and DeepSeek-v3.2 in their official technical report</p> 
   - <p style='text-align:justify'><i>2026.01</i>: &nbsp; <a href="https://arxiv.org/abs/2309.11268">StructChart</a> has been accepted as a Regular Paper in T-PAMI.</p> 
 
 **2025:**
@@ -72,7 +72,7 @@ My team and I are deeply committed to building foundation agents and multi-agent
   - <p style='text-align:justify'><i>2025.05</i>: &nbsp; <a href="https://arxiv.org/abs/2503.04629">SurveyForge</a> and <a href="https://arxiv.org/abs/2501.03916">Dolphin</a> were accepted by <font color="red">ACL-2025</font>.</p>
   - <p style='text-align:justify'><i>2025.05</i>: &nbsp; <a href="https://arxiv.org/abs/2502.09621">MME-CoT</a> is accepted by <font color="red">ICML-2025</font>.</p>
   - <p style='text-align:justify'><i>2025.02</i>: &nbsp; Three papers were accepted by <font color="red">CVPR-2025</font>: JiSAM, OmniDocBench, CDM.</p>
-  - <p style='text-align:justify'><i>2025.01</i>: &nbsp; One of our papers has been accepted for publication in <font color="red">TPAMI</font>, another has been accepted by <font color="red">TGRS</font>.</p>
+  - <p style='text-align:justify'><i>2025.01</i>: &nbsp; One of our papers has been accepted for publication in <font color="red">TPAMI</font>: <a href="https://ieeexplore.ieee.org/abstract/document/10870147">BridgeNet</a>, another has been accepted by <font color="red">TGRS</font>: <a href="https://ieeexplore.ieee.org/abstract/document/10829634">DF2RQ</a>.</p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp; Two papers accepted to <font color="red">ICLR 2025</font>: <a href="https://arxiv.org/abs/2412.11863">GeoX</a>, <a href="https://arxiv.org/abs/2406.08418">OmniCorpus</a></p>
 
 **2024:**
@@ -82,11 +82,11 @@ My team and I are deeply committed to building foundation agents and multi-agent
   - <p style='text-align:justify'><i>2024.09</i>: Three papers accepted to <font color="red">NeurIPS 2024</font>: <a href="https://arxiv.org/abs/2410.09873/">AdaptiveDiffusion</a>, <a href="https://arxiv.org/abs/2411.05311/">ZOPP</a>, <a href="https://arxiv.org/abs/2405.15324/">LeapAD</a> </p>
   - <p style='text-align:justify'><i>2024.08</i>: Bo Zhang was invited to serve as a PC member of <font color="red">AAAI 2025</font>.</p>
   - <p style='text-align:justify'><i>2024.07</i>: We collaborated with the OpenDataLab team to open-source the <font color="red">PDF-Extract-Kit</font>. It can extract high-quality and structured content from PDFs and has gained <b>6K+</b> stars.</p>
-  - <p style='text-align:justify'><i>2024.07</i>: One paper (<a href="https://link.springer.com/chapter/10.1007/978-3-031-72775-7_12">Reg-TTA3D</a>) is accepted by <font color="red">ECCV 2024</font>. We explore test-time adaptive 3d object detection for the first time.</p>
-  - <p style='text-align:justify'><i>2024.05</i>: Our paper entitled "<a href="https://arxiv.org/abs/2402.03660">Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm</a>"  is accepted for publication in <font color="red">ICML 2024</font>.</p>
+  - <p style='text-align:justify'><i>2024.07</i>: One paper (<a href="https://link.springer.com/chapter/10.1007/978-3-031-72775-7_12">Reg-TTA3D</a>) is accepted by <font color="red">ECCV 2024</font>. We explore test-time adaptive 3d perception.</p>
+  - <p style='text-align:justify'><i>2024.05</i>: Our paper entitled "<a href="https://arxiv.org/abs/2402.03660">Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm</a>" is accepted for publication in <font color="red">ICML 2024</font>.</p>
   - <p style='text-align:justify'><i>2024.05</i>: One paper (<a href="https://arxiv.org/abs/2402.14800">Expert Pruning-Skipping</a>) is accepted by <font color="red">ACL 2024</font>.</p>
   - <p style='text-align:justify'><i>2024.02</i>: One paper (<a href="https://arxiv.org/abs/2403.15835">Once for Both</a>) is accepted by <font color="red">CVPR-2024</font>.</p>
-  - <p style='text-align:justify'><i>2024.01</i>: One paper (<a href="https://arxiv.org/abs/2309.05527">ReSimAD</a>) is accepted by <font color="red">ICLR 2024</font>. We propose a zero-shot generalization framework by reconstructing mesh and simulating target point clouds.</p>
+  - <p style='text-align:justify'><i>2024.01</i>: One paper (<a href="https://arxiv.org/abs/2309.05527">ReSimAD</a>) is accepted by <font color="red">ICLR 2024</font>. We propose a zero-shot generalization by reconstructing mesh and simulating target point clouds.</p>
   <!-- - <p style='text-align:justify'><i>2024.01</i>: Two papers (<a href="https://ieeexplore.ieee.org/abstract/document/10516600/">IPNet</a> and <a href="https://ieeexplore.ieee.org/abstract/document/10360874/">MVNet</a>) are accepted by <font color="red">TCSVT</font>. </p> -->
 
 **2023:**
