@@ -61,24 +61,24 @@ My team and I are deeply committed to building foundation agents and multi-agent
 # 🌎 News
 **2026:**
   - <p style='text-align:justify'><i>2026.04</i>: &nbsp; Four papers were accepted at <font color="red">ACL 2026 Main Conference</font> and Three papers were accepted for <font color="red">ACL 2026 Findings</font></p> 
-  - <p style='text-align:justify'><i>2026.02</i>: &nbsp; Four papers accepted to <font color="red">CVPR 2026</font>, Highlight: <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Ouyang_OmniDocBench_Benchmarking_Diverse_PDF_Document_Parsing_with_Comprehensive_Annotations_CVPR_2025_paper.html">OmniDocBench</a> has been evaluated using Gemini-3-pro, Kimi-2.5, and DeepSeek-v3.2</p> 
+  - <p style='text-align:justify'><i>2026.02</i>: &nbsp; Four papers accepted to <font color="red">CVPR 2026</font>, Highlight: <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Ouyang_OmniDocBench_Benchmarking_Diverse_PDF_Document_Parsing_with_Comprehensive_Annotations_CVPR_2025_paper.html">OmniDocBench</a> has been evaluated by Gemini-3-pro, Kimi-2.5, and DeepSeek-v3.2 in their technical report</p> 
   - <p style='text-align:justify'><i>2026.01</i>: &nbsp; <a href="https://arxiv.org/abs/2309.11268">StructChart</a> has been accepted as a Regular Paper in T-PAMI.</p> 
 
 **2025:**
   - <p style='text-align:justify'><i>2025.09</i>: &nbsp; Welcome to try out our recent research product on AI agents:  <a href="https://discovery.intern-ai.org.cn/home">Intern Discovery</a></p> 
   - <p style='text-align:justify'><i>2025.07</i>: &nbsp; 🎉🎉  InternAgent: When Agent Becomes the Scientist -- Your ultimate AI-powered Scientist for finding, analyzing, and experimentation like never before! <a href="https://alpha-innovator.github.io/InternAgent-project-page">InternAgent Page</a></p> 
-  - <p style='text-align:justify'><i>2025.06</i>: &nbsp; <a href="https://arxiv.org/abs/2309.10527">SPOT</a> has been accepted as a Regular Paper in Transactions on Pattern Analysis and Machine Intelligence. </p> 
+  - <p style='text-align:justify'><i>2025.06</i>: &nbsp; <a href="https://arxiv.org/abs/2309.10527">SPOT</a> has been accepted as a Regular Paper in T-PAMI. </p> 
   - <p style='text-align:justify'><i>2025.06</i>: &nbsp; Three papers accepted to <font color="red">ICCV 2025</font>: <a href="https://arxiv.org/abs/2412.05983">Chimera</a>, <a href="https://arxiv.org/abs/2503.21758">Lumina-Image 2.0</a>, <a href="https://arxiv.org/abs/2503.07167">TOP</a> </p> 
-  - <p style='text-align:justify'><i>2025.05</i>: &nbsp; <a href="https://arxiv.org/abs/2503.04629">SurveyForge</a> and <a href="https://arxiv.org/abs/2501.03916">Dolphin</a> are accepted by <font color="red">ACL-2025</font>.</p>
+  - <p style='text-align:justify'><i>2025.05</i>: &nbsp; <a href="https://arxiv.org/abs/2503.04629">SurveyForge</a> and <a href="https://arxiv.org/abs/2501.03916">Dolphin</a> were accepted by <font color="red">ACL-2025</font>.</p>
   - <p style='text-align:justify'><i>2025.05</i>: &nbsp; <a href="https://arxiv.org/abs/2502.09621">MME-CoT</a> is accepted by <font color="red">ICML-2025</font>.</p>
-  - <p style='text-align:justify'><i>2025.02</i>: &nbsp; Three papers are accepted by <font color="red">CVPR-2025</font>: JiSAM, OmniDocBench, CDM.</p>
+  - <p style='text-align:justify'><i>2025.02</i>: &nbsp; Three papers were accepted by <font color="red">CVPR-2025</font>: JiSAM, OmniDocBench, CDM.</p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp; One of our papers has been accepted for publication in <font color="red">TPAMI</font>, another has been accepted by <font color="red">TGRS</font>.</p>
   - <p style='text-align:justify'><i>2025.01</i>: &nbsp; Two papers accepted to <font color="red">ICLR 2025</font>: <a href="https://arxiv.org/abs/2412.11863">GeoX</a>, <a href="https://arxiv.org/abs/2406.08418">OmniCorpus</a></p>
 
 **2024:**
   <!-- - <p style='text-align:justify'><i>2024.12</i>: &nbsp; Our research project, <a href="https://www.arxiv.org/abs/2412.11863/">GeoX</a>, has been officially open-sourced today. It is the first to explore formalized visual-language pre-training in enhancing geometric problem-solving abilities.</p> -->
   - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 <font color="red">Grateful for the heartfelt recognition and thoughtful sharing of my research work</font> <a href="https://www.sohu.com/a/814145951_121124291/">Fudan_CYL</a> and <a href="https://mp.weixin.qq.com/s/KVAI0Q7spu6yot-6oQOewQ">Fudan_SIST</a> .</p>
-  - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 The technical report for <a href="https://arxiv.org/abs/2409.18839/"><font color="red">MinerU</font></a> with high table extraction ability (<a href="https://huggingface.co/U4R/StructTable-base">StructEqTable-Deploy</a>), an open-source solution for high-precision document content extraction, has been published. </p>
+  - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 The technical report for <a href="https://arxiv.org/abs/2409.18839/"><font color="red">MinerU</font></a> with high table extraction ability (<a href="https://huggingface.co/U4R/StructTable-base">StructEqTable-Deploy</a>) has been published. </p>
   - <p style='text-align:justify'><i>2024.09</i>: Three papers accepted to <font color="red">NeurIPS 2024</font>: <a href="https://arxiv.org/abs/2410.09873/">AdaptiveDiffusion</a>, <a href="https://arxiv.org/abs/2411.05311/">ZOPP</a>, <a href="https://arxiv.org/abs/2405.15324/">LeapAD</a> </p>
   - <p style='text-align:justify'><i>2024.08</i>: Bo Zhang was invited to serve as a PC member of <font color="red">AAAI 2025</font>.</p>
   - <p style='text-align:justify'><i>2024.07</i>: We collaborated with the OpenDataLab team to open-source the <font color="red">PDF-Extract-Kit</font>. It can extract high-quality and structured content from PDFs and has gained <b>6K+</b> stars.</p>
