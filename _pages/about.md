@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class="bio-intro">
-Bo Zhang is a Young Scientist at the Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab) and Head of the Scientific Discovery System Team at the AI for Science Center. His research focuses on general AI agents, multimodal reasoning large models, and their applications in autonomous scientific discovery. His work has led to many awards, including the Outstanding Young Talents in Shanghai, Shanghai Rising Star, the National Scholarship 2020/2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security recognition and Robosweeper.
+Bo Zhang is a Young Scientist at Shanghai AI Laboratory; Head of the Agent Center. His research focuses on general AI agents, multimodal reasoning large models, and their applications in autonomous scientific discovery. His work has led to many awards, including the Outstanding Young Talents in Shanghai, Shanghai Rising Star, the National Scholarship 2020/2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security recognition and Robosweeper.
 </div>
 
 <div class="bio-intro">
