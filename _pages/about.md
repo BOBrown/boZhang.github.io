@@ -22,14 +22,16 @@ Bo Zhang is a Young Scientist at Shanghai AI Laboratory; Head of the Agent Cente
 </div>
 
 <div class="bio-intro">
-Over the course of my academic career, I have published more than 50 papers in top-tier venues such as CVPR, ICLR, ICML, ACL, T-PAMI, TIP, and IJCV. I am also proud to have won the <a href="https://github.com/openai/mle-bench">OpenAI MLE-bench</a> and Waymo Open Dataset Challenge for my work in multi-agent collaborative optimization and perception-decision making.
+My research focuses on building foundation agents and multi-agent systems that solve real-world problems. I have published more than 50 papers in leading conferences and journals, including CVPR, ICLR, ICML, ACL, IEEE TPAMI, IEEE TIP, and IJCV. My work on multi-agent collaborative optimization and joint perception and decision-making has also achieved top results on <a href="https://github.com/openai/mle-bench">OpenAI MLE-bench</a> and won the Waymo Open Dataset Challenge.
 
-My team and I are deeply committed to building foundation agents and multi-agent systems that solve real-world challenges. I led the development of <a href="https://www.shlab.org.cn/news/5444184">InternAgent</a> and the <a href="https://www.shlab.org.cn/news/5444231">Intern-Discovery platform</a>, which was officially launched at WAIC 2025 and featured in MIT Technology Review and People's Daily. Using this platform, we collaborated with the Lingang Laboratory to develop <a href="https://www.biorxiv.org/content/10.1101/2025.06.03.657658v1">OriGene</a>, leading to the successful discovery of two original biological targets: GPR160 and ARG2.
+I led the development of <a href="https://internscience.github.io/Agents-A1/">Agents-A1</a>, a long-horizon agent model that quickly gained global attention from developers and was recognized as “the best-performing 35B MoE model for long-horizon agent tasks.” Within 10 days of launch, the model family surpassed 300,000 downloads and reached #4 on Hugging Face’s overall model trending leaderboard—a first for Shanghai AI Laboratory. Its release also inspired a growing range of community-built variants and adaptations.
+
+Beyond model development, I lead efforts to apply agents to scientific discovery. I led the development of <a href="https://www.shlab.org.cn/news/5444184">InternAgent</a> and <a href="https://www.shlab.org.cn/news/5444231">Intern-Discovery platform</a>. The platform launched at WAIC 2025 and was featured in MIT Technology Review and People’s Daily. Building on this platform, my team collaborated with Lingang Laboratory to develop <a href="https://www.biorxiv.org/content/10.1101/2025.06.03.657658v1">OriGene</a>, leading to the successful discovery of two original biological targets: GPR160 and ARG2.
 </div>
 
 <div class="recruit-box">
   🚀 <strong>Join Shanghai AI Lab's Elite Team!</strong><br>
-  We're recruiting PhD candidates (2027/2028 intake) &amp; Researchers (June 2026/March 2027 start) to pioneer DeepResearch Agent, Coding Agent, AI-Scientist, LLM/VLM, and Multi-Agent Self-evolution.<br>
+  We're recruiting PhD candidates (2027/2028 intake) &amp; Researchers (Oct 2026/March 2027 start) to pioneer DeepResearch Agent, Coding Agent, AI-Scientist, LLM/VLM, and Multi-Agent Self-evolution.<br>
   👉 Contact now with your CV + research vision: <a href="mailto:zhangbo@pjlab.org.cn">zhangbo@pjlab.org.cn</a> &amp; <a href="mailto:bo.zhangzx@gmail.com">bo.zhangzx@gmail.com</a>
 </div>
 
@@ -38,7 +40,7 @@ My team and I are deeply committed to building foundation agents and multi-agent
 <span class='anchor' id='highlighted-projects'></span>
 
 # 🔥 Highlighted Projects
-- <b>Agents-A1</b>: Agentic Model that reaches trillion-parameter-level performance by scaling the agent horizon
+- <b>Agents-A1</b>: Agentic Model that <font color="red">reaches trillion-parameter-level performance by scaling the agent horizon</font>
 [[📰&nbsp;&nbsp;**Tech Report**]](http://arxiv.org/abs/2606.30616) &nbsp;&nbsp; | &nbsp;&nbsp; [[🏠&nbsp;&nbsp;**Home Page**]](https://internscience.github.io/Agents-A1)
 
 - <b>cc-mini</b>: Ultra-light Harness scaffolding for AI agents
@@ -122,6 +124,33 @@ Yusong Hu, Runmin Ma, Yue Fan, Jinxin Shi, Zongsheng Cao, Yuhao Zhou, Jiakang Yu
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/MME-Reasoning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MME-Reasoning: A Broad-Spectrum Benchmark for Evaluating Logical Reasoning in MLLMs](https://ieeexplore.ieee.org/abstract/document/11419865)
+
+Jiakang Yuan, Tianshuo Peng, Yilei Jiang, Yiting Lu, Renrui Zhang, Kaituo Feng, Chaoyou Fu, Tao Chen, LEI BAI, **<u>Bo Zhang^(corr.)</u>**
+
+[[**Project**]](https://github.com/InternScience/MME-Reasoning)[[**Paper**]](https://openreview.net/forum?id=uQiVJ2vKhL&referrer=%5Bthe%20profile%20of%20LEI%20BAI%5D(%2Fprofile%3Fid%3D)
+- Abductive reasoning remains a key bottleneck for MLLMs, trailing deductive reasoning by 5.38 points in closed-source models and 9.81 in open-source models. Closing this gap is crucial for real-world reasoning.
+- MLLMs show limited and uneven logical reasoning capabilities. Even leading models score modestly on MME-Reasoning: Gemini-Pro-2.5-Thinking (60.19%), Seed1.5-VL (59.85%), and o4-mini (57.49%), highlighting its comprehensive coverage and difficulty.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/structchart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[StructChart: On the Schema, Metric, and Augmentation for Visual Chart Understanding](https://ieeexplore.ieee.org/abstract/document/11419865)
+
+Renqiu Xia, Haoyang Peng, Hancheng Ye, Mingsheng Li, Xiangchao Yan, Peng Ye, Botian Shi, Yu Qiao, Junchi Yan, **<u>Bo Zhang^(corr.)</u>**
+
+[[**Project**]]()[[**Paper**]](https://ieeexplore.ieee.org/abstract/document/9729102)
+- We propose Structured Triplet Representations (STR), a practical chart-specific schema that organizes essential chart elements into a structured, interpretable format for diverse chart-related tasks.
+- Building on STR, we introduce the Structuring Chart-oriented Representation Metric (SCRM), a standardized metric for evaluating chart representations across diverse perception tasks.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/chimera.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -360,7 +389,7 @@ Siyuan Huang, **<u>Bo Zhang^(corr.)</u>**, Botian Shi, Peng Gao, Yikang Li, Hong
 </div>
 </div>
 
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/PAGCP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -371,7 +400,7 @@ Hancheng Ye, **<u>Bo Zhang</u>**, Tao Chen, Jiayuan Fan, Bin Wang
 [[**Project**]]()[[**Paper**]](https://ieeexplore.ieee.org/abstract/document/9729102)
 - We propose a Performance-Aware Global Channel Pruning (PAGCP) framework. We first theoretically present the objective for achieving superior GCP, by considering the joint saliency of filters from intra- and inter-layers.
 </div>
-</div>
+</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/sample_centric.png' alt="sym" width="100%"></div></div>
