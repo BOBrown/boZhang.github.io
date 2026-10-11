@@ -23,9 +23,11 @@ Bo Zhang is a Young Scientist at Shanghai AI Laboratory; Head of the Agent Cente
 
 <div class="bio-intro">
 My research focuses on building foundation agents and multi-agent systems that solve real-world problems. I have published more than 50 papers in leading conferences and journals, including CVPR, ICLR, ICML, ACL, IEEE TPAMI, IEEE TIP, and IJCV. My work on multi-agent collaborative optimization and joint perception and decision-making has also achieved top results on <a href="https://github.com/openai/mle-bench">OpenAI MLE-bench</a> and won the Waymo Open Dataset Challenge.
-
+</div>
+<div class="bio-intro">
 I led the development of <a href="https://internscience.github.io/Agents-A1/">Agents-A1</a>, a long-horizon agent model that quickly gained global attention from developers and was recognized as “the best-performing 35B MoE model for long-horizon agent tasks.” Within 10 days of launch, the model family surpassed 300,000 downloads and reached #4 on Hugging Face’s overall model trending leaderboard—a first for Shanghai AI Laboratory. Its release also inspired a growing range of community-built variants and adaptations.
-
+</div>
+<div class="bio-intro">
 Beyond model development, I lead efforts to apply agents to scientific discovery. I led the development of <a href="https://www.shlab.org.cn/news/5444184">InternAgent</a> and <a href="https://www.shlab.org.cn/news/5444231">Intern-Discovery platform</a>. The platform launched at WAIC 2025 and was featured in MIT Technology Review and People’s Daily. Building on this platform, my team collaborated with Lingang Laboratory to develop <a href="https://www.biorxiv.org/content/10.1101/2025.06.03.657658v1">OriGene</a>, leading to the successful discovery of two original biological targets: GPR160 and ARG2.
 </div>
 
